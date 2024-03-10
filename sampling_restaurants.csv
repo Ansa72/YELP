@@ -1,0 +1,751 @@
+city,title,rank,point,tag,link,review_n
+Alameda,Jong Ga House,8.0,4.0,"['Korean', 'Barbeque', 'Hot Pot']",/biz/jong-ga-house-oakland,2300.0
+Alameda,Brenda’s Oakland,33.0,3.9,"['Breakfast & Brunch', 'Southern', 'Cajun/Creole']",/biz/brendas-oakland-oakland,1000.0
+Alameda,Homeroom,1.0,4.1,"['American (Traditional)', 'Comfort Food']",/biz/homeroom-oakland,6500.0
+Alameda,Yojimbo,14.0,3.9,"['Sushi Bars', 'Japanese']",/biz/yojimbo-alameda,1700.0
+Alameda,Quinn’s Lighthouse,34.0,3.5,"['Bars', 'Seafood']",/biz/quinns-lighthouse-oakland,1000.0
+Alameda,Eve’s Waterfront,81.0,3.1,"['Seafood', 'Venues & Event Spaces']",/biz/eves-waterfront-oakland-2,466.0
+Alameda,East End,63.0,3.7,"['Pizza', 'American (New)', 'Cocktail Bars']",/biz/east-end-alameda,565.0
+Alameda,FOB Kitchen,71.0,4.1,"['Filipino', 'Breakfast & Brunch', 'Cocktail Bars']",/biz/fob-kitchen-oakland,517.0
+Alameda,Cholita Linda,77.0,4.4,"['Latin American', 'Sandwiches', 'Tacos']",/biz/cholita-linda-alameda-8,480.0
+Alameda,Pucquio,101.0,4.1,['Peruvian'],/biz/pucquio-oakland,331.0
+Alameda,Sobre Mesa,117.0,4.0,"['Tapas/Small Plates', 'Cocktail Bars', 'Latin American']",/biz/sobre-mesa-oakland-4,266.0
+Alameda,Cinema Grill,126.0,3.4,"['Comfort Food', 'Beer, Wine & Spirits', 'Cinema']",/biz/cinema-grill-alameda,251.0
+Alameda,Aman Cafe,181.0,4.8,"['Malaysian', 'Coffee & Tea', 'Cafes']",/biz/aman-cafe-oakland,79.0
+Alameda,Sachi Sushi,185.0,4.1,"['Sushi Bars', 'Japanese']",/biz/sachi-sushi-alameda-2,75.0
+Alameda,LA VIDA FISH & CHIPS,213.0,4.3,['Fish & Chips'],/biz/la-vida-fish-and-chips-emeryville,26.0
+Alexandria,Cheesetique,44.0,4.2,"['Cheese Shops', 'Sandwiches', 'Wine Bars']",/biz/cheesetique-alexandria-3,802.0
+Alexandria,Momo Sushi & Cafe,28.0,4.1,"['Sushi Bars', 'Japanese']",/biz/momo-sushi-and-cafe-alexandria,1100.0
+Alexandria,Busboys and Poets - Shirlington,15.0,3.9,"['Breakfast & Brunch', 'American (New)', 'Vegan']",/biz/busboys-and-poets-shirlington-arlington-2,1900.0
+Alexandria,Mike’s American,4.0,4.4,"['American (Traditional)', 'Seafood', 'Salad']",/biz/mikes-american-springfield,2800.0
+Alexandria,Fontaine,38.0,3.8,"['Creperies', 'French', 'Breakfast & Brunch']",/biz/fontaine-alexandria,851.0
+Alexandria,Rocklands Barbeque and Grilling Company - Alexandria,85.0,3.9,"['Barbeque', 'Salad', 'Sandwiches']",/biz/rocklands-barbeque-and-grilling-company-alexandria-alexandria-2,423.0
+Alexandria,Faccia Luna,92.0,3.9,"['Pizza', 'Italian', 'American (Traditional)']",/biz/faccia-luna-alexandria,375.0
+Alexandria,Haute Dog and Fries,50.0,3.9,"['Hot Dogs', 'American (Traditional)']",/biz/haute-dog-and-fries-alexandria,707.0
+Alexandria,Northside 10,91.0,4.3,"['Bars', 'American (Traditional)', 'Breakfast & Brunch']",/biz/northside-10-alexandria,386.0
+Alexandria,The Best Sandwich Place,121.0,4.6,"['Breakfast & Brunch', 'Sandwiches', 'Salad']",/biz/the-best-sandwich-place-washington-5,268.0
+Alexandria,The Club Burgers & Sandwiches,120.0,4.2,"['Burgers', 'Sandwiches', 'Chicken Wings']",/biz/the-club-burgers-and-sandwiches-alexandria,268.0
+Alexandria,Gordon Ramsay Fish & Chips,119.0,3.7,"['Fish & Chips', 'Comfort Food', 'Seafood']",/biz/gordon-ramsay-fish-and-chips-washington,275.0
+Alexandria,KitchenCray - Alexandria,145.0,3.4,"['Breakfast & Brunch', 'Southern']",/biz/kitchencray-alexandria-alexandria,167.0
+Alexandria,Gyu San Japanese BBQ,172.0,4.7,"['Japanese', 'Barbeque', 'Sushi Bars']",/biz/gyu-san-japanese-bbq-arlington-3,99.0
+Alexandria,Dave’s Hot Chicken,222.0,3.9,"['Chicken Shop', 'Halal']",/biz/daves-hot-chicken-vienna,16.0
+Allston,Giulia,40.0,4.4,"['Italian', 'Wine Bars', 'Cocktail Bars']",/biz/giulia-cambridge,537.0
+Allston,FuGaKyu Japanese Cuisine - Brookline,10.0,3.7,"['Sushi Bars', 'Ramen', 'Seafood']",/biz/fugakyu-japanese-cuisine-brookline-brookline-2,1300.0
+Allston,Luke’s Lobster Back Bay,2.0,4.2,"['Seafood', 'Soup', 'Sandwiches']",/biz/lukes-lobster-back-bay-boston,2000.0
+Allston,Kaju Tofu House,24.0,3.9,['Korean'],/biz/kaju-tofu-house-allston-2,742.0
+Allston,Earls Kitchen + Bar,8.0,3.9,"['American (New)', 'Cocktail Bars']",/biz/earls-kitchen-bar-boston-2,1400.0
+Allston,Brothers & Sisters Co Coffeehouse + Cafe,85.0,4.0,"['Coffee & Tea', 'Bagels', 'Breakfast & Brunch']",/biz/brothers-and-sisters-co-coffeehouse-cafe-brookline,298.0
+Allston,Waypoint,51.0,3.9,"['Bars', 'American (New)', 'Seafood']",/biz/waypoint-cambridge,463.0
+Allston,T Anthony’s Restaurant,81.0,3.6,"['Pizza', 'Italian', 'Breakfast & Brunch']",/biz/t-anthonys-restaurant-boston-2,323.0
+Allston,Pammy’s,61.0,4.4,"['Italian', 'American (New)']",/biz/pammys-cambridge-2,402.0
+Allston,Mei Mei Street Kitchen,115.0,4.3,"['Caterers', 'Food Trucks', 'Asian Fusion']",/biz/mei-mei-street-kitchen-boston-4,198.0
+Allston,Habanero Mexican Grill,101.0,4.0,['Mexican'],/biz/habanero-mexican-grill-allston,237.0
+Allston,Surya Indian Kitchen,125.0,4.1,"['Indian', 'Food Delivery Services']",/biz/surya-indian-kitchen-cambridge,174.0
+Allston,Gigi,175.0,4.2,"['Italian', 'Cocktail Bars']",/biz/gigi-boston-2,58.0
+Allston,Garrison House,180.0,3.6,"['Bars', 'American (New)', 'Venues & Event Spaces']",/biz/garrison-house-brookline,46.0
+Allston,El Mondonguito,218.0,3.9,['Puerto Rican'],/biz/el-mondonguito-roxbury,14.0
+Ann Arbor,Tmaz Taqueria,27.0,4.2,['Mexican'],/biz/tmaz-taqueria-ann-arbor,449.0
+Ann Arbor,Black Pearl Ann Arbor,41.0,3.8,"['Seafood', 'Lounges', 'Cocktail Bars']",/biz/black-pearl-ann-arbor-ann-arbor-2,352.0
+Ann Arbor,Blue Tractor BBQ & Brewery,13.0,3.4,"['Breweries', 'Pubs', 'American (Traditional)']",/biz/blue-tractor-bbq-and-brewery-ann-arbor-2,605.0
+Ann Arbor,Pacific Rim,18.0,4.1,['Asian Fusion'],/biz/pacific-rim-ann-arbor,519.0
+Ann Arbor,Bigalora Wood Fired Cucina,31.0,3.5,"['Italian', 'Pizza', 'Gluten-Free']",/biz/bigalora-wood-fired-cucina-ann-arbor,418.0
+Ann Arbor,Paesano Restaurant & Wine Bar,63.0,3.5,"['Italian', 'Wine Bars', 'American (New)']",/biz/paesano-restaurant-and-wine-bar-ann-arbor,275.0
+Ann Arbor,Sushi Town,62.0,4.3,['Sushi Bars'],/biz/sushi-town-ann-arbor,276.0
+Ann Arbor,Dominick’s,76.0,3.6,"['Italian', 'Lounges']",/biz/dominicks-ann-arbor,230.0
+Ann Arbor,Biercamp,74.0,4.6,"['Meat Shops', 'Breweries', 'Hot Dogs']",/biz/biercamp-ann-arbor,235.0
+Ann Arbor,Mac’s Acadian Seafood Shack,112.0,3.4,"['American (Traditional)', 'Seafood', 'Cajun/Creole']",/biz/macs-acadian-seafood-shack-saline,157.0
+Ann Arbor,Ginger Deli,107.0,4.1,"['Delis', 'Sandwiches', 'Vietnamese']",/biz/ginger-deli-ann-arbor,167.0
+Ann Arbor,Bobcat Bonnie’s,131.0,4.0,"['American (New)', 'Gastropubs']",/biz/bobcat-bonnies-ypsilanti,136.0
+Ann Arbor,Cantina,148.0,3.5,"['Bars', 'Mexican', 'Tapas/Small Plates']",/biz/cantina-ann-arbor,98.0
+Ann Arbor,First Watch,166.0,2.8,['Breakfast & Brunch'],/biz/first-watch-ann-arbor,57.0
+Ann Arbor,Unicorn Market,224.0,3.7,"['Grocery', 'Pizza', 'Delis']",/biz/unicorn-market-ann-arbor-3,3.0
+Arlington,Lost Dog Cafe,38.0,3.7,"['Sandwiches', 'Pizza', 'Bars']",/biz/lost-dog-cafe-arlington-2,826.0
+Arlington,TNR Cafe,44.0,3.8,"['Chinese', 'Coffee & Tea']",/biz/tnr-cafe-arlington-6,779.0
+Arlington,Le Diplomate,3.0,4.3,"['Brasseries', 'French', 'Breakfast & Brunch']",/biz/le-diplomate-washington,4900.0
+Arlington,Founding Farmers - Washington,1.0,4.0,"['American (Traditional)', 'Coffee & Tea', 'Breakfast & Brunch']",/biz/founding-farmers-washington-washington-3,16400.0
+Arlington,Mala Tang,48.0,3.3,"['Chinese', 'Hot Pot']",/biz/mala-tang-arlington,707.0
+Arlington,La Famosa,94.0,4.3,"['Puerto Rican', 'Coffee & Tea', 'Bars']",/biz/la-famosa-washington,359.0
+Arlington,Skydome Restaurant,89.0,3.0,"['Lounges', 'American (New)']",/biz/skydome-restaurant-arlington,385.0
+Arlington,Mezeh - Crystal City,69.0,4.3,"['Mediterranean', 'Halal', 'Salad']",/biz/mezeh-crystal-city-arlington-2,506.0
+Arlington,Tortas Y Tacos La Chiquita,50.0,4.5,['Mexican'],/biz/tortas-y-tacos-la-chiquita-arlington-2,674.0
+Arlington,Taco Ssam,107.0,4.3,"['Korean', 'Mexican']",/biz/taco-ssam-baileys-crossroads-3,290.0
+Arlington,Taco Rock,102.0,4.1,['Tacos'],/biz/taco-rock-arlington,300.0
+Arlington,St James - Modern Caribbean,130.0,4.3,['Caribbean'],/biz/st-james-modern-caribbean-washington,201.0
+Arlington,Troy’s Italian Kitchen,145.0,4.0,"['Pizza', 'Italian', 'Vegan']",/biz/troys-italian-kitchen-arlington,172.0
+Arlington,The Simple Greek,158.0,3.8,['Greek'],/biz/the-simple-greek-arlington-3,137.0
+Arlington,Rosa Mexicano,209.0,3.5,"['Mexican', 'Cocktail Bars']",/biz/rosa-mexicano-coming-soon-arlington,42.0
+Austin,Fonda San Miguel,35.0,4.0,['Mexican'],/biz/fonda-san-miguel-austin-7,1100.0
+Austin,Koriente,14.0,4.4,"['Asian Fusion', 'Gluten-Free', 'Salad']",/biz/koriente-austin,1900.0
+Austin,Culinary Dropout,16.0,4.0,"['Bars', 'American (New)', 'Music Venues']",/biz/culinary-dropout-austin,1800.0
+Austin,Phoebe’s Diner,17.0,4.5,"['Breakfast & Brunch', 'Diners', 'American (Traditional)']",/biz/phoebes-diner-austin,1700.0
+Austin,888 Pan Asian Restaurant,11.0,4.1,"['Vietnamese', 'Thai', 'Chinese']",/biz/888-pan-asian-restaurant-austin,2000.0
+Austin,Old Thousand,88.0,3.9,"['Cocktail Bars', 'Chinese', 'Asian Fusion']",/biz/old-thousand-austin,467.0
+Austin,Troy ATX,73.0,4.5,"['Turkish', 'Mediterranean']",/biz/troy-atx-austin-4,567.0
+Austin,Juniper,61.0,4.2,"['Italian', 'American (New)', 'Cocktail Bars']",/biz/juniper-austin,655.0
+Austin,Nervous Charlie’s Bagels,77.0,4.3,"['Bagels', 'Sandwiches', 'Breakfast & Brunch']",/biz/nervous-charlies-bagels-austin,553.0
+Austin,Tiny Boxwoods,108.0,3.7,"['Venues & Event Spaces', 'American (New)']",/biz/tiny-boxwoods-austin-3,317.0
+Austin,Devil May Care,133.0,4.1,"['Lounges', 'Mediterranean', 'Cocktail Bars']",/biz/devil-may-care-austin,178.0
+Austin,De Nada Cantina,106.0,4.4,"['Mexican', 'Wine Bars', 'Cocktail Bars']",/biz/de-nada-cantina-austin-2,338.0
+Austin,Rice Ball,169.0,4.1,['Japanese'],/biz/rice-ball-austin,102.0
+Austin,Dean’s Italian Steakhouse - Austin,148.0,4.4,"['Steakhouses', 'Italian', 'Seafood']",/biz/deans-italian-steakhouse-austin-austin-4,155.0
+Austin,Bat City Pies,223.0,4.9,"['Pizza', 'Food Trucks']",/biz/bat-city-pies-austin,19.0
+Bloomington,Juannita’s,27.0,3.2,"['Mexican', 'Bars']",/biz/juannitas-bloomington-4,190.0
+Bloomington,The Village Deli,17.0,3.3,"['Breakfast & Brunch', 'American (Traditional)', 'Delis']",/biz/the-village-deli-bloomington,237.0
+Bloomington,Mother Bear’s Pizza West,31.0,4.1,"['Pizza', 'Italian']",/biz/mother-bears-pizza-west-bloomington,173.0
+Bloomington,The Owlery Restaurant,11.0,4.3,"['Vegan', 'Vegetarian', 'American (Traditional)']",/biz/the-owlery-restaurant-bloomington,339.0
+Bloomington,My Thai Cafe & Sushi Bar - West Side,34.0,4.1,['Thai'],/biz/my-thai-cafe-and-sushi-bar-west-side-bloomington,162.0
+Bloomington,Olive Garden Italian Restaurant,86.0,3.0,"['Italian', 'Salad', 'Soup']",/biz/olive-garden-italian-restaurant-bloomington-10,76.0
+Bloomington,Wings Xtreme U,76.0,2.6,"['Chicken Wings', 'Burgers', 'Sandwiches']",/biz/wings-xtreme-u-bloomington,87.0
+Bloomington,Peach Garden,91.0,2.8,['Chinese'],/biz/peach-garden-bloomington,73.0
+Bloomington,Feta Kitchen + Cafe,70.0,4.2,"['Cafes', 'Juice Bars & Smoothies', 'Ice Cream & Frozen Yogurt']",/biz/feta-kitchen-cafe-bloomington-2,92.0
+Bloomington,El Ranchero,120.0,2.6,['Mexican'],/biz/el-ranchero-bloomington-2,53.0
+Bloomington,Baldy’s Pizza,136.0,4.0,['Pizza'],/biz/baldys-pizza-bloomington,45.0
+Bloomington,Bloomingfoods,140.0,3.6,"['Grocery', 'Health Markets', 'Delis']",/biz/bloomingfoods-bloomington-10,43.0
+Bloomington,Papa Johns Pizza,164.0,1.6,"['Pizza', 'Chicken Wings', 'Fast Food']",/biz/papa-johns-pizza-bloomington,30.0
+Bloomington,Freddy’s Frozen Custard & Steakburgers,158.0,2.4,"['Burgers', 'Ice Cream & Frozen Yogurt', 'Sandwiches']",/biz/freddys-frozen-custard-and-steakburgers-bloomington,32.0
+Bloomington,Village Inn Family Restaurant,217.0,3.5,"['Diners', 'Breakfast & Brunch']",/biz/village-inn-family-restaurant-bloomington,2.0
+Brighton,Frank Pepe Pizzeria Napoletana,36.0,3.3,['Pizza'],/biz/frank-pepe-pizzeria-napoletana-chestnut-hill-chestnut-hill-2,452.0
+Brighton,Giulia,22.0,4.4,"['Italian', 'Wine Bars', 'Cocktail Bars']",/biz/giulia-cambridge,537.0
+Brighton,Seasons 52,45.0,3.5,"['American (New)', 'Wine Bars', 'Seafood']",/biz/seasons-52-chestnut-hill-3,428.0
+Brighton,The Abbey,23.0,4.2,['American (New)'],/biz/the-abbey-brookline,528.0
+Brighton,The Avenue,44.0,3.9,"['American (Traditional)', 'Beer Bar']",/biz/the-avenue-boston,428.0
+Brighton,Mala Restaurant,60.0,3.8,"['Barbeque', 'Szechuan']",/biz/mala-restaurant-boston,330.0
+Brighton,Fin’s Sushi and Grill,63.0,3.8,"['Sushi Bars', 'Japanese']",/biz/fins-sushi-and-grill-brighton,315.0
+Brighton,Lee’s Burger Place,54.0,4.3,"['Burgers', 'American (Traditional)', 'Juice Bars & Smoothies']",/biz/lees-burger-place-newton-centre-2,362.0
+Brighton,Brighton Cafe,91.0,4.0,['Breakfast & Brunch'],/biz/brighton-cafe-brighton,225.0
+Brighton,Isshindo Ramen,99.0,4.4,['Ramen'],/biz/isshindo-ramen-allston,206.0
+Brighton,Prairie Fire,110.0,4.1,"['Pizza', 'American (New)', 'Wine Bars']",/biz/prairie-fire-brookline,180.0
+Brighton,Xiang Yu China Bistro,133.0,3.9,['Chinese'],/biz/xiang-yu-china-bistro-brookline,136.0
+Brighton,Flat Breads,173.0,3.8,['Sandwiches'],/biz/flat-breads-chestnut-hill,67.0
+Brighton,Parlour,171.0,4.2,"['American (New)', 'Cocktail Bars', 'Tapas/Small Plates']",/biz/parlour-brookline,70.0
+Brighton,Beef and Turkey,239.0,1.0,['Delis'],/biz/beef-and-turkey-boston,1.0
+Brookline,Jim’s Deli,31.0,4.5,"['Delis', 'Diners', 'Breakfast & Brunch']",/biz/jims-deli-brighton,719.0
+Brookline,Buttermilk & Bourbon,21.0,4.0,"['Southern', 'Bars', 'Tapas Bars']",/biz/buttermilk-and-bourbon-boston-2,1000.0
+Brookline,Boston Sail Loft,15.0,4.3,"['Bars', 'American (Traditional)', 'Seafood']",/biz/boston-sail-loft-boston,1300.0
+Brookline,Carmelina’s,2.0,4.5,['Italian'],/biz/carmelinas-boston-2,3400.0
+Brookline,Earls Kitchen + Bar,12.0,3.9,"['American (New)', 'Cocktail Bars']",/biz/earls-kitchen-bar-boston-2,1400.0
+Brookline,The Squealing Pig,63.0,3.7,"['Pubs', 'Irish', 'Irish Pub']",/biz/the-squealing-pig-boston,434.0
+Brookline,Oppa Sushi,74.0,4.3,"['Sushi Bars', 'Japanese', 'Seafood']",/biz/oppa-sushi-boston-2,363.0
+Brookline,The Mission Bar & Grill,71.0,3.7,"['Bars', 'American (New)']",/biz/the-mission-bar-and-grill-boston,377.0
+Brookline,Burro Bar Brookline,87.0,3.8,"['Mexican', 'Bars']",/biz/burro-bar-brookline-brookline,282.0
+Brookline,Moldova Restaurant,99.0,4.3,"['Modern European', 'Comfort Food', 'Ukrainian']",/biz/moldova-restaurant-newton,231.0
+Brookline,Sultana’s Bakery & Cafe,143.0,4.5,"['Cafes', 'Bakeries', 'Salad']",/biz/sultanas-bakery-and-cafe-brighton,106.0
+Brookline,Hamilton Restaurant & Bar,123.0,3.3,"['Cocktail Bars', 'American (New)', 'Beer Bar']",/biz/hamilton-restaurant-and-bar-brookline,166.0
+Brookline,Bon Me - Longwood Medical Area,184.0,3.4,"['Food Trucks', 'Asian Fusion']",/biz/bon-me-longwood-medical-area-boston-4,54.0
+Brookline,Wicked Craft,161.0,3.8,"['Sandwiches', 'Wine Bars', 'Beer Bar']",/biz/wicked-craft-boston,86.0
+Brookline,Maliss Thai Restaurant,225.0,4.1,['Thai'],/biz/maliss-thai-restaurant-brookline,8.0
+Cincinnati,Nicholson’s,24.0,3.9,"['Pubs', 'Gastropubs', 'American (New)']",/biz/nicholsons-cincinnati,509.0
+Cincinnati,Hofbrauhaus Newport,10.0,3.8,"['German', 'Breweries', 'Bars']",/biz/hofbrauhaus-newport-newport-4,903.0
+Cincinnati,Swampwater Grill,44.0,4.2,"['Cajun/Creole', 'Barbeque', 'American (Traditional)']",/biz/swampwater-grill-cincinnati-2,378.0
+Cincinnati,Abigail Street,29.0,4.4,"['Mediterranean', 'Wine Bars', 'Tapas Bars']",/biz/abigail-street-cincinnati,477.0
+Cincinnati,Strong’s Brick Oven Pizzeria,33.0,4.3,"['Pizza', 'Desserts', 'Salad']",/biz/strongs-brick-oven-pizzeria-newport,448.0
+Cincinnati,Tea ‘n’ Bowl,60.0,4.0,"['Bubble Tea', 'Asian Fusion', 'Szechuan']",/biz/tea-n-bowl-cincinnati,272.0
+Cincinnati,Bouquet Restaurant,49.0,4.5,"['Bars', 'American (New)', 'Tapas/Small Plates']",/biz/bouquet-restaurant-covington,345.0
+Cincinnati,Lucius Q,51.0,4.0,"['Barbeque', 'Southern', 'Soul Food']",/biz/lucius-q-cincinnati,330.0
+Cincinnati,Tickle Pickle Northside,57.0,3.9,['Burgers'],/biz/tickle-pickle-northside-cincinnati-2,308.0
+Cincinnati,Nation Westwood,98.0,4.3,"['Burgers', 'Sandwiches', 'Breakfast & Brunch']",/biz/nation-westwood-cincinnati,136.0
+Cincinnati,Bouchards,134.0,4.5,['Italian'],/biz/bouchards-cincinnati,78.0
+Cincinnati,Enson Harbor,130.0,3.3,"['Dim Sum', 'Soup', 'Juice Bars & Smoothies']",/biz/enson-harbor-bellevue,84.0
+Cincinnati,Darou Salam,164.0,4.6,['African'],/biz/darou-salam-cincinnati-2,48.0
+Cincinnati,Dunlap Cafe,154.0,4.3,"['Breakfast & Brunch', 'Sandwiches', 'Burgers']",/biz/dunlap-cafe-cincinnati,57.0
+Cincinnati,Cousins Maine Lobster - Cincinnati,225.0,4.4,"['Seafood', 'Food Trucks']",/biz/cousins-maine-lobster-cincinnati-cincinnati,5.0
+Cleveland,Punch Bowl Social Cleveland,19.0,3.4,"['Gastropubs', 'Eatertainment', 'Breakfast & Brunch']",/biz/punch-bowl-social-cleveland-cleveland,567.0
+Cleveland,Seoul Garden,35.0,4.4,['Korean'],/biz/seoul-garden-parma,402.0
+Cleveland,Pizza 216,44.0,3.9,"['Bars', 'Pizza', 'Italian']",/biz/pizza-216-cleveland,357.0
+Cleveland,L’Albatros,7.0,4.4,['French'],/biz/l-albatros-cleveland,887.0
+Cleveland,Superior Pho,10.0,4.2,"['Vietnamese', 'Soup', 'Sandwiches']",/biz/superior-pho-cleveland,758.0
+Cleveland,Tandul,76.0,4.0,"['Indian', 'Buffets', 'Bars']",/biz/tandul-cleveland-3,241.0
+Cleveland,Maxi’s,75.0,3.9,"['Italian', 'Pizza']",/biz/maxis-cleveland,246.0
+Cleveland,Phusion Cafe,88.0,4.1,"['Taiwanese', 'Chinese']",/biz/phusion-cafe-cleveland-2,201.0
+Cleveland,Zhug,87.0,4.5,"['Mediterranean', 'Middle Eastern']",/biz/zhug-cleveland-heights,204.0
+Cleveland,Morton’s The Steakhouse,102.0,3.3,"['Steakhouses', 'American (Traditional)', 'Bars']",/biz/mortons-the-steakhouse-cleveland,170.0
+Cleveland,Tacologist Tacos-Tequila-Margaritas,106.0,3.8,"['Mexican', 'Cocktail Bars']",/biz/tacologist-tacos-tequila-margaritas-cleveland-3,163.0
+Cleveland,Kenko,100.0,3.8,"['Sushi Bars', 'Japanese', 'Asian Fusion']",/biz/kenko-cleveland-5,172.0
+Cleveland,Paradise Ranch Tequila Bar And Grill,184.0,4.2,['Latin American'],/biz/paradise-ranch-tequila-bar-and-grill-valley-view,39.0
+Cleveland,Whiskey Island Still & Eatery,181.0,3.1,"['American (Traditional)', 'Music Venues', 'Pubs']",/biz/whiskey-island-still-and-eatery-cleveland,41.0
+Cleveland,Tripi,224.0,4.4,"['Italian', 'Pizza', 'Sandwiches']",/biz/tripi-cleveland,7.0
+Daly City,Perilla,28.0,4.0,['Vietnamese'],/biz/perilla-san-francisco-2,1600.0
+Daly City,Mission Rock Resort,23.0,4.0,"['Seafood', 'American (New)', 'Venues & Event Spaces']",/biz/mission-rock-resort-san-francisco-2,1700.0
+Daly City,Lavash,26.0,4.2,"['Persian/Iranian', 'Wine Bars', 'Mediterranean']",/biz/lavash-san-francisco-2,1600.0
+Daly City,7 Mile House,19.0,4.2,"['Sports Bars', 'American (Traditional)', 'Filipino']",/biz/7-mile-house-brisbane,1800.0
+Daly City,Outerlands,9.0,3.8,"['Breakfast & Brunch', 'American (Traditional)', 'Cocktail Bars']",/biz/outerlands-san-francisco,2400.0
+Daly City,3rd Cousin,85.0,4.1,['American (New)'],/biz/3rd-cousin-san-francisco-2,437.0
+Daly City,Marcella’s Lasagneria,77.0,4.6,['Italian'],/biz/marcellas-lasagneria-san-francisco-3,507.0
+Daly City,LaLe,64.0,4.2,"['Breakfast & Brunch', 'Mediterranean', 'Tapas/Small Plates']",/biz/lale-san-francisco-2,620.0
+Daly City,Bottega,50.0,4.3,"['Italian', 'Pasta Shops', 'Pizza']",/biz/bottega-san-francisco-2,866.0
+Daly City,Saigon BBQ Noodle House,129.0,4.6,"['Vietnamese', 'Noodles']",/biz/saigon-bbq-noodle-house-san-francisco-2,239.0
+Daly City,Los Metates,103.0,3.9,['Tacos'],/biz/los-metates-daly-city,351.0
+Daly City,Redeye Grill,126.0,4.6,"['Mediterranean', 'Barbeque', 'Middle Eastern']",/biz/redeye-grill-pacifica-4,256.0
+Daly City,Krispy Krunchy Chicken,155.0,3.6,"['Fast Food', 'Chicken Wings']",/biz/krispy-krunchy-chicken-daly-city,154.0
+Daly City,Mr. Digby’s,154.0,4.3,"['Cocktail Bars', 'Comfort Food', 'Breakfast & Brunch']",/biz/mr-digby-s-san-francisco-2,154.0
+Daly City,The Anecdote,212.0,4.7,['American (New)'],/biz/the-anecdote-south-san-francisco-2,27.0
+Detroit,Seva Detroit,36.0,3.7,"['Vegetarian', 'Vegan']",/biz/seva-detroit-detroit,549.0
+Detroit,Slows Bar BQ,1.0,3.9,"['Barbeque', 'Beer Bar', 'American (Traditional)']",/biz/slows-bar-bq-detroit,2300.0
+Detroit,Sweetwater Tavern,25.0,3.4,"['Bars', 'American (Traditional)', 'Chicken Wings']",/biz/sweetwater-tavern-detroit,650.0
+Detroit,SheWolf Pastificio & Bar,45.0,4.2,"['Italian', 'Bars']",/biz/shewolf-pastificio-and-bar-detroit,460.0
+Detroit,Joe Muer Seafood,19.0,3.8,"['Seafood', 'Sushi Bars', 'American (Traditional)']",/biz/joe-muer-seafood-detroit,785.0
+Detroit,M Cantina,49.0,3.8,"['Mexican', 'Juice Bars & Smoothies', 'Latin American']",/biz/m-cantina-dearborn,425.0
+Detroit,The London Chop House,55.0,4.1,"['Steakhouses', 'Cocktail Bars', 'Cigar Bars']",/biz/the-london-chop-house-detroit-2,367.0
+Detroit,Cannelle Matt Knio,78.0,4.5,"['Coffee & Tea', 'Bakeries', 'Sandwiches']",/biz/cannelle-matt-knio-detroit,234.0
+Detroit,Olin Bar & Kitchen,87.0,4.4,"['American (New)', 'Tapas/Small Plates']",/biz/olin-bar-and-kitchen-detroit,194.0
+Detroit,Maine Street Restaurant,138.0,3.8,"['Greek', 'Italian', 'American (Traditional)']",/biz/maine-street-restaurant-hamtramck,83.0
+Detroit,Prism,119.0,3.9,"['Seafood', 'Steakhouses']",/biz/prism-detroit,122.0
+Detroit,The Potato Place,111.0,3.9,"['American (Traditional)', 'Ice Cream & Frozen Yogurt', 'Desserts']",/biz/the-potato-place-detroit,135.0
+Detroit,Ukrainian Restaurant,170.0,4.6,['Ukrainian'],/biz/ukrainian-restaurant-windsor,46.0
+Detroit,Metropolitan Bar And Kitchen,183.0,4.0,"['Desserts', 'Seafood', 'Cocktail Bars']",/biz/metropolitan-bar-and-kitchen-detroit,23.0
+Detroit,BITE Bar & Grill,227.0,1.0,"['Breakfast & Brunch', 'Bars']",/biz/bite-bar-and-grill-detroit,2.0
+Dublin,Gotta Eatta Pita,37.0,4.2,"['Mediterranean', 'Middle Eastern']",/biz/gotta-eatta-pita-pleasanton-3,983.0
+Dublin,Kura Revolving Sushi Bar,43.0,3.2,"['Sushi Bars', 'Conveyor Belt Sushi']",/biz/kura-revolving-sushi-bar-pleasanton,905.0
+Dublin,Denica’s Real Food Kitchen,21.0,3.8,"['Breakfast & Brunch', 'Bakeries']",/biz/denicas-real-food-kitchen-castro-valley,1300.0
+Dublin,88 Bao Bao,44.0,4.1,['Dim Sum'],/biz/88-bao-bao-dublin-2,884.0
+Dublin,Sauced BBQ & Spirits - Livermore,5.0,3.8,"['Barbeque', 'Southern', 'Burgers']",/biz/sauced-bbq-and-spirits-livermore-livermore-3,2500.0
+Dublin,Tri Valley Bistro,91.0,4.2,"['Breakfast & Brunch', 'American (New)']",/biz/tri-valley-bistro-pleasanton-2,465.0
+Dublin,Hazy Barbecue,78.0,3.9,"['Salad', 'Barbeque', 'Sandwiches']",/biz/hazy-barbecue-danville-2,524.0
+Dublin,The Sister House,53.0,4.0,['Korean'],/biz/the-sister-house-hayward,703.0
+Dublin,Range Life,90.0,4.4,"['Desserts', 'American (New)', 'Cocktail Bars']",/biz/range-life-livermore,467.0
+Dublin,Torarenbou Sushi Bistro,127.0,3.8,"['Japanese', 'Sushi Bars']",/biz/torarenbou-sushi-bistro-dublin-2,250.0
+Dublin,Rahma Mediterranean​ Grill,143.0,4.5,"['Mediterranean', 'Middle Eastern', 'Halal']",/biz/rahma-mediterranean-grill-dublin-7,183.0
+Dublin,11th Tiger,105.0,4.4,['Thai'],/biz/11th-tiger-danville,373.0
+Dublin,DareDevil Dogs,172.0,4.7,"['Hot Dogs', 'Burgers', 'Caterers']",/biz/daredevil-dogs-san-ramon,105.0
+Dublin,Azul,164.0,3.8,"['Latin American', 'Tapas/Small Plates']",/biz/azul-livermore,129.0
+Dublin,Northern Curry,211.0,4.7,"['Indian', 'Food Trucks', 'Caterers']",/biz/northern-curry-pleasanton-5,34.0
+Durham,Uncle Julio’s,44.0,3.2,"['Mexican', 'Tex-Mex']",/biz/uncle-julios-durham-2,379.0
+Durham,Burger Bach,32.0,4.0,"['Burgers', 'Gastropubs', 'Seafood']",/biz/burger-bach-durham,460.0
+Durham,Firebirds Wood Fired Grill,40.0,3.7,"['Steakhouses', 'Seafood', 'Wine Bars']",/biz/firebirds-wood-fired-grill-durham,401.0
+Durham,Juju Asian Tapas + Bar,17.0,4.3,"['Tapas/Small Plates', 'Asian Fusion', 'Bars']",/biz/juju-asian-tapas-bar-durham-3,630.0
+Durham,Tobacco Road Sports Café,21.0,3.4,"['Sports Bars', 'American (Traditional)']",/biz/tobacco-road-sports-caf%C3%A9-durham-2,579.0
+Durham,Happy + Hale,59.0,4.0,"['Salad', 'Juice Bars & Smoothies', 'Breakfast & Brunch']",/biz/happy-hale-durham,313.0
+Durham,Twisted Noodles,81.0,3.8,"['Thai', 'Noodles']",/biz/twisted-noodles-durham,255.0
+Durham,Ted’s Montana Grill - Renaissance Center,51.0,3.7,"['American (Traditional)', 'Steakhouses', 'Seafood']",/biz/teds-montana-grill-renaissance-center-durham,346.0
+Durham,"Press Coffee, Crepes & Cocktails",90.0,4.6,"['Coffee & Tea', 'Creperies', 'Breakfast & Brunch']",/biz/press-coffee-crepes-and-cocktails-durham-2,232.0
+Durham,Boxcar Bar + Arcade,137.0,3.9,"['Bars', 'Arcades', 'Pizza']",/biz/boxcar-bar-arcade-durham,128.0
+Durham,Flying Biscuit Cafe - Brier Creek,139.0,4.2,['Breakfast & Brunch'],/biz/flying-biscuit-cafe-brier-creek-raleigh,124.0
+Durham,First Watch,120.0,3.5,"['Breakfast & Brunch', 'Cafes', 'American (Traditional)']",/biz/first-watch-durham-5,151.0
+Durham,The Crabby Patty,191.0,4.5,['Seafood'],/biz/the-crabby-patty-durham-4,40.0
+Durham,Lawrence Barbecue,150.0,4.3,"['Barbeque', 'Caterers']",/biz/lawrence-barbecue-durham,102.0
+Durham,Hayti Collective Kitchen & Cocktails,228.0,3.0,"['American (Traditional)', 'Cocktail Bars']",/biz/hayti-collective-kitchen-and-cocktails-durham,6.0
+Emeryville,Kirala Restaurant,22.0,3.9,"['Sushi Bars', 'Japanese']",/biz/kirala-restaurant-berkeley-2,1800.0
+Emeryville,Angeline’s Louisiana Kitchen,2.0,4.1,"['Cajun/Creole', 'Southern', 'Seafood']",/biz/angelines-louisiana-kitchen-berkeley,4800.0
+Emeryville,Cafe M,19.0,4.0,"['Breakfast & Brunch', 'Salad', 'Sandwiches']",/biz/cafe-m-berkeley,1900.0
+Emeryville,Moo Bong Ri Korean Restaurant,43.0,4.5,"['Korean', 'Soup', 'Chicken Wings']",/biz/moo-bong-ri-korean-restaurant-oakland,1000.0
+Emeryville,Shandong Restaurant,6.0,4.2,"['Chinese', 'Seafood', 'Noodles']",/biz/shandong-restaurant-oakland,3600.0
+Emeryville,Shawarmaji,76.0,4.3,"['Middle Eastern', 'Halal', 'Wraps']",/biz/shawarmaji-oakland,537.0
+Emeryville,Touch of Soul,72.0,3.5,"['Soul Food', 'Diners']",/biz/touch-of-soul-emeryville,639.0
+Emeryville,Los Cantaros Taqueria,71.0,3.5,['Mexican'],/biz/los-cantaros-taqueria-emeryville-2,644.0
+Emeryville,Best Coast Burritos,77.0,3.9,"['Mexican', 'Breakfast & Brunch']",/biz/best-coast-burritos-emeryville,535.0
+Emeryville,Kowbird,109.0,4.1,"['Sandwiches', 'Chicken Wings', 'Southern']",/biz/kowbird-oakland,304.0
+Emeryville,Yimm,103.0,4.4,['Thai'],/biz/yimm-oakland,337.0
+Emeryville,Co Nam,113.0,3.8,"['Vietnamese', 'Cocktail Bars', 'Breakfast & Brunch']",/biz/co-nam-oakland,279.0
+Emeryville,Ramen 101,180.0,3.5,"['Ramen', 'Barbeque', 'Hawaiian']",/biz/ramen-101-emeryville,82.0
+Emeryville,Todos,158.0,4.2,"['Mexican', 'Caterers', 'Cocktail Bars']",/biz/todos-oakland,142.0
+Emeryville,Tik Dak,208.0,4.9,"['Korean', 'Chicken Wings', 'Noodles']",/biz/tik-dak-oakland-4,39.0
+Flushing,Bunna Cafe,27.0,4.5,"['Ethiopian', 'Vegan', 'African']",/biz/bunna-cafe-brooklyn,799.0
+Flushing,The Bonnie,28.0,4.1,"['Gastropubs', 'American (New)', 'Breakfast & Brunch']",/biz/the-bonnie-astoria,793.0
+Flushing,Loukoumi Taverna,41.0,4.3,['Greek'],/biz/loukoumi-taverna-astoria-2,542.0
+Flushing,Forest Hills Station House,12.0,4.2,"['Gastropubs', 'Cocktail Bars', 'Beer Bar']",/biz/forest-hills-station-house-forest-hills,1300.0
+Flushing,Ginger and Lemongrass,23.0,3.9,"['Vietnamese', 'Thai', 'Noodles']",/biz/ginger-and-lemongrass-whitestone,973.0
+Flushing,Bobby Van’s Grill,50.0,2.9,"['Steakhouses', 'Breakfast & Brunch', 'Cocktail Bars']",/biz/bobby-vans-grill-jamaica,463.0
+Flushing,Buccaneer Diner,65.0,3.4,"['Diners', 'Breakfast & Brunch', 'American (Traditional)']",/biz/buccaneer-diner-east-elmhurst,345.0
+Flushing,Kissfish,85.0,4.2,"['Poke', 'Sushi Bars']",/biz/kissfish-forest-hills,246.0
+Flushing,While In Kathmandu,87.0,4.5,"['Cafes', 'Bars', 'Himalayan/Nepalese']",/biz/while-in-kathmandu-ridgewood,244.0
+Flushing,Fu Yuan,97.0,4.3,"['Chinese', 'Food Stands']",/biz/fu-yuan-flushing-2,221.0
+Flushing,Leo’s Latticini Mama’s,111.0,4.6,"['Delis', 'Italian', 'Sandwiches']",/biz/leos-latticini-mamas-corona-3,168.0
+Flushing,John Brown BBQ,114.0,4.2,['Barbeque'],/biz/john-brown-bbq-long-island-city-2,158.0
+Flushing,Mama Schnitzel,166.0,4.1,['Kosher'],/biz/mama-schnitzel-rego-park,67.0
+Flushing,Nneji,178.0,5.0,['African'],/biz/nneji-astoria,54.0
+Flushing,Yoku,228.0,5.0,"['Sushi Bars', 'Bubble Tea']",/biz/yoku-queens,7.0
+Foster City,Shalizaar,14.0,3.6,['Persian/Iranian'],/biz/shalizaar-belmont,1200.0
+Foster City,Jack’s Prime Burgers & Shakes,5.0,4.0,"['Burgers', 'Salad', 'Wine Bars']",/biz/jacks-prime-burgers-and-shakes-san-mateo-6,1800.0
+Foster City,Thai Tamarind Restaurant,47.0,3.8,['Thai'],/biz/thai-tamarind-restaurant-belmont,521.0
+Foster City,Apple Fritter,7.0,4.2,"['Burgers', 'Breakfast & Brunch', 'Coffee & Tea']",/biz/apple-fritter-san-mateo,1600.0
+Foster City,The Cheesecake Factory,6.0,2.6,"['American (Traditional)', 'Desserts']",/biz/the-cheesecake-factory-san-mateo-san-mateo,1700.0
+Foster City,Daiki Sushi,72.0,3.1,"['Japanese', 'Sushi Bars']",/biz/daiki-sushi-san-mateo,368.0
+Foster City,Amigos Grill Cocina Mexicana,89.0,3.5,"['Mexican', 'American (Traditional)']",/biz/amigos-grill-cocina-mexicana-san-mateo,298.0
+Foster City,Los Moreno Taqueria,83.0,3.9,"['Mexican', 'Seafood', 'Breakfast & Brunch']",/biz/los-moreno-taqueria-san-mateo,324.0
+Foster City,Sandwich Monkey,86.0,3.8,['Sandwiches'],/biz/sandwich-monkey-foster-city,310.0
+Foster City,Spicy Empire,104.0,3.5,"['Noodles', 'Szechuan', 'Dim Sum']",/biz/spicy-empire-san-mateo-2,237.0
+Foster City,Otoko Sushi,114.0,3.4,"['Sushi Bars', 'Ramen']",/biz/otoko-sushi-redwood-city,184.0
+Foster City,Marias Restaurant,144.0,3.8,"['Mexican', 'Spanish', 'Salvadoran']",/biz/marias-restaurant-san-mateo,93.0
+Foster City,Sarku Japan,153.0,2.3,"['Japanese', 'Sushi Bars']",/biz/sarku-japan-san-mateo,75.0
+Foster City,Quickly,145.0,3.2,"['Coffee & Tea', 'Bubble Tea', 'Asian Fusion']",/biz/quickly-foster-city-3,91.0
+Foster City,Bites of Brazil,227.0,5.0,"['Brazilian', 'Food Delivery Services']",/biz/bites-of-brazil-san-mateo,1.0
+Honolulu,Shabuya,28.0,4.4,"['Hot Pot', 'Japanese']",/biz/shabuya-honolulu,2200.0
+Honolulu,Moku Kitchen,26.0,3.9,"['Cocktail Bars', 'American (New)', 'Gastropubs']",/biz/moku-kitchen-honolulu,2200.0
+Honolulu,53 By The Sea,46.0,4.0,"['Seafood', 'American (New)', 'Cocktail Bars']",/biz/53-by-the-sea-honolulu,1300.0
+Honolulu,Paia Fish Market Waikiki,31.0,4.5,"['Seafood', 'American (New)', 'Fish & Chips']",/biz/paia-fish-market-waikiki-honolulu-2,2000.0
+Honolulu,Side Street Inn,35.0,4.1,"['Sports Bars', 'Comfort Food']",/biz/side-street-inn-honolulu,2000.0
+Honolulu,Hawaiian Island Cafe,95.0,4.7,"['Cafes', 'Breakfast & Brunch']",/biz/hawaiian-island-cafe-waimanalo-3,617.0
+Honolulu,Moke’s Bread and Breakfast - Kaimuki,86.0,4.5,['Breakfast & Brunch'],/biz/moke-s-bread-and-breakfast-kaimuki-honolulu,714.0
+Honolulu,100 Sails Restaurant & Bar,67.0,4.0,"['Buffets', 'Cocktail Bars', 'American (New)']",/biz/100-sails-restaurant-and-bar-honolulu-2,952.0
+Honolulu,Maguro Brothers Hawaii - Waikiki - Temp. CLOSED,73.0,4.4,"['Sushi Bars', 'Poke', 'Seafood']",/biz/maguro-brothers-hawaii-waikiki-honolulu-2,863.0
+Honolulu,Spice Up House of Indian Cuisine,127.0,4.5,"['Indian', 'Himalayan/Nepalese']",/biz/spice-up-house-of-indian-cuisine-honolulu-2,351.0
+Honolulu,Mahaloha Burger- Waikiki,101.0,3.8,"['Burgers', 'Hot Dogs', 'Fast Food']",/biz/mahaloha-burger-waikiki-honolulu-4,549.0
+Honolulu,Guieb Cafe,97.0,4.5,"['American (New)', 'Cafes', 'Breakfast & Brunch']",/biz/guieb-cafe-honolulu-3,585.0
+Honolulu,Izakaya Danji Honolulu,180.0,4.0,['Izakaya'],/biz/izakaya-danji-honolulu-honolulu,126.0
+Honolulu,Repetti’s Pizza and Provisions,176.0,4.5,"['Pizza', 'Italian', 'Pasta Shops']",/biz/repettis-pizza-and-provisions-honolulu,136.0
+Honolulu,Rock N Rolls,204.0,4.2,"['Vietnamese', 'Soup', 'Sandwiches']",/biz/rock-n-rolls-honolulu,57.0
+Houston,The Rice Box,30.0,3.8,"['Asian Fusion', 'Chinese']",/biz/the-rice-box-houston-5,920.0
+Houston,Urban Eats,19.0,4.0,"['American (New)', 'Bakeries', 'Coffee & Tea']",/biz/urban-eats-houston-2,1200.0
+Houston,Mezza Grille,41.0,4.4,"['Mediterranean', 'American (New)', 'Salad']",/biz/mezza-grille-houston,705.0
+Houston,Adair Kitchen,23.0,3.8,"['American (New)', 'Breakfast & Brunch']",/biz/adair-kitchen-houston,1000.0
+Houston,Roost,48.0,4.0,['American (New)'],/biz/roost-houston,605.0
+Houston,TJ Birria Y Mas,76.0,4.5,['Mexican'],/biz/tj-birria-y-mas-houston-3,390.0
+Houston,Flying Biscuit Café - Memorial City,64.0,4.1,"['Breakfast & Brunch', 'Southern', 'American (New)']",/biz/flying-biscuit-caf%C3%A9-memorial-city-houston-2,480.0
+Houston,Tiger Noodle House,50.0,4.1,['Chinese'],/biz/tiger-noodle-house-houston,596.0
+Houston,Marmo,71.0,4.1,"['Italian', 'Steakhouses', 'Piano Bars']",/biz/marmo-houston,424.0
+Houston,Trill Burgers,105.0,3.7,['Burgers'],/biz/trill-burgers-houston,222.0
+Houston,Uchiko,129.0,4.4,['Sushi Bars'],/biz/uchiko-houston-2,159.0
+Houston,Gatlin’s Fins & Feathers,130.0,4.2,['Southern'],/biz/gatlins-fins-and-feathers-houston,157.0
+Houston,Shandy’s,163.0,4.1,"['American (Traditional)', 'Salad', 'Bars']",/biz/shandys-houston-5,82.0
+Houston,Cosmo Eatery - Galleria,173.0,4.7,"['American (Traditional)', 'Pizza', 'Breakfast & Brunch']",/biz/cosmo-eatery-galleria-houston-2,62.0
+Houston,Stick Talk Cajun Hibachi,231.0,4.5,"['Cajun/Creole', 'Japanese', 'Food Trucks']",/biz/stick-talk-cajun-hibachi-houston-2,2.0
+Iowa City,Mellow Mushroom Coralville,17.0,3.8,"['Pizza', 'Bars', 'Sandwiches']",/biz/mellow-mushroom-coralville-coralville,207.0
+Iowa City,Marquee Pizzeria,30.0,4.2,"['Pizza', 'Bars', 'Italian']",/biz/marquee-pizzeria-coralville,158.0
+Iowa City,Reunion Brewery,23.0,3.6,"['American (Traditional)', 'Breakfast & Brunch', 'Breweries']",/biz/reunion-brewery-coralville-7,179.0
+Iowa City,Baroncini,25.0,4.1,"['Italian', 'Wine Bars']",/biz/baroncini-iowa-city,177.0
+Iowa City,Backpocket Brewing,24.0,3.7,"['Breweries', 'Pizza', 'Tapas Bars']",/biz/backpocket-brewing-coralville,178.0
+Iowa City,IHOP,74.0,1.6,"['Breakfast & Brunch', 'American (Traditional)', 'Burgers']",/biz/ihop-coralville,83.0
+Iowa City,Falbo Bros. Pizzeria,82.0,3.5,['Pizza'],/biz/falbo-bros-pizzeria-iowa-city,70.0
+Iowa City,Pancheros Mexican Grill,69.0,2.7,['Mexican'],/biz/pancheros-mexican-grill-iowa-city,89.0
+Iowa City,Soseki Café,73.0,4.3,"['Sushi Bars', 'Japanese', 'Coffee & Tea']",/biz/soseki-caf%C3%A9-iowa-city,84.0
+Iowa City,El Dorado Mexican Restaurant,103.0,3.7,['Mexican'],/biz/el-dorado-mexican-restaurant-coralville,50.0
+Iowa City,Bruegger’s Bagels and Jamba Juice,105.0,2.3,"['Bagels', 'Breakfast & Brunch', 'Sandwiches']",/biz/brueggers-bagels-and-jamba-juice-iowa-city-2,48.0
+Iowa City,Taco Bell,104.0,1.7,"['Mexican', 'Fast Food']",/biz/taco-bell-iowa-city-3,49.0
+Iowa City,Domino’s Pizza,149.0,2.7,"['Pizza', 'Chicken Wings', 'Sandwiches']",/biz/dominos-pizza-iowa-city,23.0
+Iowa City,Papa Johns Pizza,176.0,2.3,"['Pizza', 'Chicken Wings', 'Fast Food']",/biz/papa-johns-pizza-iowa-city,11.0
+Iowa City,Sno Biz of Iowa City REAL Shave Ice Made Right,200.0,4.5,"['Shaved Ice', 'Food Stands']",/biz/sno-biz-of-iowa-city-real-shave-ice-made-right-iowa-city,4.0
+La Jolla,Regents Pizzeria,34.0,4.0,"['Pizza', 'Italian', 'American (Traditional)']",/biz/regents-pizzeria-san-diego-2,1700.0
+La Jolla,JRDN Restaurant,37.0,3.9,"['American (New)', 'Breakfast & Brunch', 'Sushi Bars']",/biz/jrdn-restaurant-san-diego,1600.0
+La Jolla,Dirty Birds,46.0,3.9,"['Sports Bars', 'Burgers', 'Chicken Wings']",/biz/dirty-birds-san-diego,1300.0
+La Jolla,Sugar and Scribe,14.0,4.3,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",/biz/sugar-and-scribe-la-jolla,2300.0
+La Jolla,Homestyle Hawaiian,23.0,3.9,"['Hawaiian', 'Salad', 'Seafood']",/biz/homestyle-hawaiian-san-diego,2100.0
+La Jolla,Trilogy Sanctuary,64.0,4.5,"['Juice Bars & Smoothies', 'Vegan', 'Yoga']",/biz/trilogy-sanctuary-la-jolla,917.0
+La Jolla,Don Carlos Taco Shop,74.0,4.2,"['Mexican', 'Vegetarian', 'Vegan']",/biz/don-carlos-taco-shop-la-jolla,778.0
+La Jolla,BJ’s Restaurant & Brewhouse,91.0,3.4,"['American (New)', 'Breweries']",/biz/bjs-restaurant-and-brewhouse-la-jolla-4,630.0
+La Jolla,Turmeric Thai Kitchen,85.0,4.5,['Thai'],/biz/turmeric-thai-kitchen-la-jolla,686.0
+La Jolla,Single Fin Surf Grill,99.0,4.4,"['Bars', 'Fish & Chips', 'American (Traditional)']",/biz/single-fin-surf-grill-san-diego,569.0
+La Jolla,Cusp Dining & Drinks - Temp. CLOSED,116.0,4.0,"['Bars', 'American (New)', 'Breakfast & Brunch']",/biz/cusp-dining-and-drinks-la-jolla-3,434.0
+La Jolla,Better Buzz Coffee La Jolla,125.0,3.9,"['Coffee & Tea', 'Breakfast & Brunch', 'Sandwiches']",/biz/better-buzz-coffee-la-jolla-la-jolla,390.0
+La Jolla,Armonía Kitchen,169.0,4.7,"['Juice Bars & Smoothies', 'Breakfast & Brunch', 'Mexican']",/biz/armon%C3%ADa-kitchen-san-diego-2,181.0
+La Jolla,Cliff Hanger Cafe,176.0,4.0,"['Sandwiches', 'Cafes']",/biz/cliff-hanger-cafe-la-jolla,157.0
+La Jolla,Splash Cafe,227.0,3.8,"['French', 'Desserts', 'Breakfast & Brunch']",/biz/splash-cafe-la-jolla,32.0
+Long Beach,Busy Bee Market,35.0,4.5,['Sandwiches'],/biz/busy-bee-market-san-pedro,1800.0
+Long Beach,Congregation Ale House,41.0,3.9,"['Pubs', 'Gastropubs', 'Burgers']",/biz/congregation-ale-house-long-beach-3,1600.0
+Long Beach,Mama’s Comfort Food & Cocktails,11.0,4.5,"['Comfort Food', 'American (Traditional)', 'Cocktail Bars']",/biz/mamas-comfort-food-and-cocktails-los-alamitos-8,2900.0
+Long Beach,Nick’s on 2nd,7.0,4.5,"['American (New)', 'Steakhouses', 'Seafood']",/biz/nicks-on-2nd-long-beach-8,3000.0
+Long Beach,The Nest - A Breakfast Joint,2.0,4.3,"['Breakfast & Brunch', 'Coffee & Tea', 'Latin American']",/biz/the-nest-a-breakfast-joint-bellflower,4100.0
+Long Beach,Tasty Food To Go,87.0,4.7,"['Thai', 'Laotian']",/biz/tasty-food-to-go-long-beach,702.0
+Long Beach,Georgia’s Restaurant,84.0,3.7,"['Soul Food', 'Southern', 'Breakfast & Brunch']",/biz/georgias-restaurant-long-beach-4,733.0
+Long Beach,Jay Bird’s Chicken,69.0,4.3,"['Chicken Shop', 'American (New)', 'Sandwiches']",/biz/jay-birds-chicken-long-beach-2,876.0
+Long Beach,Uncle Fung Borneo Eatery,71.0,4.4,"['Indonesian', 'Singaporean', 'Malaysian']",/biz/uncle-fung-borneo-eatery-long-beach,860.0
+Long Beach,Yang Chow 2.0,127.0,4.0,['Chinese'],/biz/yang-chow-2-0-long-beach,336.0
+Long Beach,The Firkin Pub & Grill,139.0,4.6,"['American (Traditional)', 'Sports Bars', 'Beer Gardens']",/biz/the-firkin-pub-and-grill-long-beach,283.0
+Long Beach,Heirloom a Modern Farmhouse,119.0,4.6,"['American (New)', 'Wine Bars']",/biz/heirloom-a-modern-farmhouse-huntington-beach,372.0
+Long Beach,Nguyen’s Kitchen,150.0,4.1,"['Asian Fusion', 'Sandwiches', 'Noodles']",/biz/nguyens-kitchen-carson,228.0
+Long Beach,Colossus,159.0,4.5,"['Bakeries', 'Coffee & Tea', 'Cafes']",/biz/colossus-long-beach,197.0
+Long Beach,Proudly Serving,206.0,4.3,"['Burgers', 'Fast Food', 'American (Traditional)']",/biz/proudly-serving-long-beach,35.0
+Los Angeles,Poppy + Rose,20.0,4.0,"['Breakfast & Brunch', 'American (New)', 'Comfort Food']",/biz/poppy-rose-los-angeles,3200.0
+Los Angeles,Bavel,41.0,4.4,['Middle Eastern'],/biz/bavel-los-angeles-3,2300.0
+Los Angeles,Langer’s Delicatessen,13.0,4.4,"['Delis', 'Sandwiches']",/biz/langers-delicatessen-los-angeles-2,4400.0
+Los Angeles,Bottega Louie,1.0,4.1,"['Italian', 'Desserts', 'Breakfast & Brunch']",/biz/bottega-louie-los-angeles,18400.0
+Los Angeles,Tatsu Ramen,14.0,4.0,['Ramen'],/biz/tatsu-ramen-los-angeles-4,4100.0
+Los Angeles,My Two Cents,89.0,4.5,"['Southern', 'Seafood', 'Soul Food']",/biz/my-two-cents-los-angeles-3,911.0
+Los Angeles,Egg Tuck,88.0,4.3,"['Breakfast & Brunch', 'Coffee & Tea', 'Sandwiches']",/biz/egg-tuck-los-angeles,935.0
+Los Angeles,Seong Buk Dong,71.0,4.1,['Korean'],/biz/seong-buk-dong-los-angeles,1300.0
+Los Angeles,Wood,77.0,3.9,"['Pizza', 'Italian', 'Wine Bars']",/biz/wood-los-angeles-8,1100.0
+Los Angeles,MUN Korean Steakhouse,129.0,4.5,"['Bars', 'Korean', 'Steakhouses']",/biz/mun-korean-steakhouse-los-angeles,424.0
+Los Angeles,Loupiotte Kitchen,141.0,4.6,"['French', 'Wine Bars', 'Breakfast & Brunch']",/biz/loupiotte-kitchen-los-angeles-2,331.0
+Los Angeles,Found Oyster,143.0,4.4,['Seafood'],/biz/found-oyster-los-angeles,318.0
+Los Angeles,The Phoenix,147.0,4.0,"['Lounges', 'Whiskey Bars', 'American (New)']",/biz/the-phoenix-los-angeles-2,305.0
+Los Angeles,PZK BBQ,175.0,4.8,"['Barbeque', 'Korean']",/biz/pzk-bbq-los-angeles-6,148.0
+Los Angeles,The Local Moco,219.0,4.8,"['Hawaiian', 'Filipino']",/biz/the-local-moco-los-angeles,27.0
+Millbrae,Isla Restaurant,32.0,3.7,['Filipino'],/biz/isla-restaurant-san-bruno,874.0
+Millbrae,New Asian Pearl Peninsula,37.0,2.8,"['Dim Sum', 'Seafood', 'Cantonese']",/biz/new-asian-pearl-peninsula-millbrae-4,747.0
+Millbrae,BJ’s Restaurant & Brewhouse,3.0,2.5,"['American (Traditional)', 'Pizza', 'Brewpubs']",/biz/bjs-restaurant-and-brewhouse-san-bruno,2700.0
+Millbrae,Mokutanya,5.0,3.9,['Ramen'],/biz/mokutanya-burlingame,2300.0
+Millbrae,Broadway Grill,42.0,3.4,"['American (Traditional)', 'Steakhouses', 'American (New)']",/biz/broadway-grill-burlingame-2,691.0
+Millbrae,Tomokazu Japanese Cuisine,64.0,2.6,['Japanese'],/biz/tomokazu-japanese-cuisine-south-san-francisco,526.0
+Millbrae,Hashes & Brews,61.0,3.7,"['Bars', 'American (Traditional)', 'Breakfast & Brunch']",/biz/hashes-and-brews-san-bruno,536.0
+Millbrae,Taqueria Mi Durango,70.0,4.2,['Mexican'],/biz/taqueria-mi-durango-san-bruno,507.0
+Millbrae,Sugandh Indian Restaurant & Bar,67.0,4.3,"['Indian', 'Vegan', 'Gluten-Free']",/biz/sugandh-indian-restaurant-and-bar-millbrae,510.0
+Millbrae,37 North,137.0,3.8,"['Gastropubs', 'American (New)', 'Cocktail Bars']",/biz/37-north-restaurant-and-bar-burlingame-2,188.0
+Millbrae,Ninja Sushi & Tofu,125.0,3.7,"['Korean', 'Sushi Bars']",/biz/ninja-sushi-and-tofu-san-bruno-3,228.0
+Millbrae,Big Joe’s - San Bruno,130.0,3.9,"['Diners', 'Burgers', 'Seafood']",/biz/big-joes-san-bruno-san-bruno,215.0
+Millbrae,Bun Mee,172.0,3.5,"['Asian Fusion', 'Sandwiches', 'Vietnamese']",/biz/bun-mee-san-francisco-10,93.0
+Millbrae,Masala Desi Cafe - Burlingame,150.0,4.4,"['Indian', 'Coffee & Tea']",/biz/masala-desi-cafe-burlingame-burlingame,156.0
+Millbrae,文哥早餐,235.0,2.3,"['Chinese', 'Breakfast & Brunch']",/biz/%E6%96%87%E5%93%A5%E6%97%A9%E9%A4%90-millbrae,4.0
+Mountain View,Alice’s Restaurant,27.0,4.0,"['Diners', 'Burgers', 'Breakfast & Brunch']",/biz/alices-restaurant-woodside,1400.0
+Mountain View,Oren’s Hummus,46.0,3.8,"['Mediterranean', 'Middle Eastern']",/biz/orens-hummus-mountain-view-3,999.0
+Mountain View,Kabul Afghan Cuisine,31.0,4.1,['Afghan'],/biz/kabul-afghan-cuisine-sunnyvale-2,1300.0
+Mountain View,Sushi Tomi,5.0,3.9,"['Sushi Bars', 'Japanese']",/biz/sushi-tomi-mountain-view-2,2500.0
+Mountain View,Back A Yard Caribbean American Grill,6.0,4.4,"['American (Traditional)', 'Caribbean', 'Barbeque']",/biz/back-a-yard-caribbean-american-grill-menlo-park,2500.0
+Mountain View,Taro San Japanese Noodle Bar,49.0,3.7,"['Japanese', 'Noodles', 'Sushi Bars']",/biz/taro-san-japanese-noodle-bar-palo-alto,952.0
+Mountain View,Sifu Wong Kitchen,60.0,3.9,"['Dim Sum', 'Cantonese', 'Seafood']",/biz/sifu-wong-kitchen-sunnyvale-3,811.0
+Mountain View,Flea Street,69.0,4.2,"['American (New)', 'Cocktail Bars', 'Tapas Bars']",/biz/flea-street-menlo-park,700.0
+Mountain View,Sweet Maple,58.0,4.1,"['Breakfast & Brunch', 'American (Traditional)', 'Asian Fusion']",/biz/sweet-maple-palo-alto,815.0
+Mountain View,Shugetsu,127.0,3.9,['Ramen'],/biz/shugetsu-san-mateo-2,222.0
+Mountain View,The Waffle Roost,116.0,4.3,"['Food Trucks', 'Southern', 'Waffles']",/biz/the-waffle-roost-sunnyvale,282.0
+Mountain View,TBread,121.0,4.3,"['Sandwiches', 'Vietnamese']",/biz/tbread-mountain-view,252.0
+Mountain View,Local Kitchens,172.0,4.4,['Restaurants'],/biz/local-kitchens-mountain-view-3,72.0
+Mountain View,Lima Ruby Peruvian,163.0,4.1,"['Peruvian', 'Bars', 'Seafood']",/biz/lima-ruby-peruvian-palo-alto-2,97.0
+Mountain View,Cloud Bistro,209.0,3.4,"['Cafes', 'Coffee & Tea', 'Sandwiches']",/biz/cloud-bistro-mountain-view-3,16.0
+Napa,The Red Grape,44.0,4.0,"['Pizza', 'Italian']",/biz/the-red-grape-sonoma-2,857.0
+Napa,Fumé Bistro & Bar,33.0,4.1,"['Bars', 'American (New)']",/biz/fum%C3%A9-bistro-and-bar-napa-4,1100.0
+Napa,El Dorado Kitchen,27.0,4.1,"['American (New)', 'Seafood', 'Breakfast & Brunch']",/biz/el-dorado-kitchen-sonoma,1400.0
+Napa,RH Yountville Restaurant,43.0,4.1,['American (New)'],/biz/rh-yountville-restaurant-yountville,858.0
+Napa,El Molino Central,29.0,4.4,['Mexican'],/biz/el-molino-central-sonoma,1200.0
+Napa,Papa Joe’s Pizza,74.0,3.8,['Pizza'],/biz/papa-joes-pizza-napa-2,485.0
+Napa,B&V Whiskey Bar & Grille,64.0,3.8,"['American (Traditional)', 'Seafood', 'Steakhouses']",/biz/b-and-v-whiskey-bar-and-grille-sonoma-2,555.0
+Napa,South Kelly Grill,90.0,4.1,"['Breakfast & Brunch', 'Waffles', 'Coffee & Tea']",/biz/south-kelly-grill-american-canyon,385.0
+Napa,Addendum,54.0,3.9,"['American (New)', 'Barbeque']",/biz/addendum-yountville,682.0
+Napa,Pho Huong Viet Noodle House,108.0,4.4,"['Vietnamese', 'Noodles']",/biz/pho-huong-viet-noodle-house-vallejo,284.0
+Napa,Sonoma Eats,139.0,4.6,['Mexican'],/biz/sonoma-eats-sonoma-3,155.0
+Napa,El Rancho Grande,142.0,3.9,"['Mexican', 'Seafood']",/biz/el-rancho-grande-napa,151.0
+Napa,Bank Cafe and Bar,154.0,3.1,"['Bars', 'Cafes', 'Comfort Food']",/biz/bank-cafe-and-bar-napa-11,129.0
+Napa,Fivetown Grocery,189.0,3.6,"['Grocery', 'Coffee & Tea', 'Breakfast & Brunch']",/biz/fivetown-grocery-napa,51.0
+Napa,Kob’s Kitchen,207.0,4.8,"['Laotian', 'Thai']",/biz/kobs-kitchen-american-canyon-3,29.0
+Nashville,Kid Rock’s Big Honky Tonk and Rock n’ Roll Steakhouse,46.0,3.5,"['Steakhouses', 'Music Venues', 'Sports Bars']",/biz/kid-rocks-big-honky-tonk-and-rock-n-roll-steakhouse-nashville,760.0
+Nashville,Robert’s Western World,34.0,4.4,"['Music Venues', 'Dive Bars', 'American (Traditional)']",/biz/roberts-western-world-nashville,944.0
+Nashville,Two Ten Jack,41.0,3.9,"['Cocktail Bars', 'Ramen', 'Izakaya']",/biz/two-ten-jack-nashville,830.0
+Nashville,Puckett’s Restaurant - Nashville,6.0,3.9,"['American (Traditional)', 'Southern', 'Barbeque']",/biz/pucketts-restaurant-nashville-nashville,3200.0
+Nashville,417 Union,31.0,4.1,"['Breakfast & Brunch', 'Southern']",/biz/417-union-nashville,1100.0
+Nashville,True Food Kitchen,91.0,4.1,"['American (New)', 'Vegan', 'Vegetarian']",/biz/true-food-kitchen-nashville-4,371.0
+Nashville,Epice,73.0,4.3,['Lebanese'],/biz/epice-nashville,469.0
+Nashville,Emmy Squared Pizza - Gulch,84.0,4.2,"['Pizza', 'Burgers']",/biz/emmy-squared-pizza-gulch-nashville,389.0
+Nashville,Bourbon Steak by Michael Mina,49.0,4.5,"['Steakhouses', 'Cocktail Bars', 'Seafood']",/biz/bourbon-steak-by-michael-mina-nashville-2,686.0
+Nashville,Parlor Doughnuts,128.0,4.4,"['Donuts', 'Coffee & Tea', 'Sandwiches']",/biz/parlor-doughnuts-nashville,216.0
+Nashville,Nicky’s Coal Fired,108.0,4.1,"['Pizza', 'Italian', 'Bagels']",/biz/nickys-coal-fired-nashville,290.0
+Nashville,TailGate Brewery Music Row,107.0,4.4,"['Pizza', 'Breweries']",/biz/tailgate-brewery-music-row-nashville,294.0
+Nashville,Tempo Nashville,178.0,4.5,"['Tex-Mex', 'Coffee & Tea', 'Venues & Event Spaces']",/biz/tempo-nashville-nashville,81.0
+Nashville,400 Degrees,165.0,2.5,"['Chicken Shop', 'Sports Bars', 'Cocktail Bars']",/biz/400-degrees-nashville-5,113.0
+Nashville,Pelato,214.0,4.3,['Italian'],/biz/pelato-nashville,30.0
+Newark.CA,Ettan,34.0,4.2,"['Indian', 'Seafood', 'Cocktail Bars']",/biz/ettan-palo-alto,1100.0
+Newark.CA,Telefèric Barcelona -Palo Alto,19.0,4.2,"['Spanish', 'Tapas Bars', 'Cocktail Bars']",/biz/telef%C3%A8ric-barcelona-palo-alto-palo-alto,1600.0
+Newark.CA,Pacific PourHouse,33.0,4.1,"['American (New)', 'Seafood', 'Burgers']",/biz/pacific-pourhouse-union-city,1100.0
+Newark.CA,Le Moose Crepe Cafe,18.0,4.1,"['Creperies', 'Thai', 'Desserts']",/biz/le-moose-crepe-cafe-fremont,1600.0
+Newark.CA,Ray’s Crab Shack,22.0,3.5,['Seafood'],/biz/rays-crab-shack-newark,1400.0
+Newark.CA,Mangal Turkish Grill,82.0,4.8,"['Steakhouses', 'Barbeque']",/biz/mangal-turkish-grill-sunnyvale,414.0
+Newark.CA,Saffron Grill,76.0,4.1,"['Mediterranean', 'Halal', 'Kebab']",/biz/saffron-grill-newark-4,442.0
+Newark.CA,Bird Dog,54.0,3.8,['American (New)'],/biz/bird-dog-palo-alto,652.0
+Newark.CA,Sojo Ramen,81.0,3.9,['Ramen'],/biz/sojo-ramen-fremont-2,415.0
+Newark.CA,Katalina’s Island Grill,136.0,4.2,"['Comfort Food', 'Hawaiian', 'Polynesian']",/biz/katalinas-island-grill-hayward,180.0
+Newark.CA,Joyful Dim Sum Bistro,134.0,4.5,['Dim Sum'],/biz/joyful-dim-sum-bistro-fremont,185.0
+Newark.CA,Sushi Ken,125.0,4.2,"['Sushi Bars', 'Japanese', 'Vegan']",/biz/sushi-ken-fremont-2,223.0
+Newark.CA,Street Food Vibes - Indian Cafe,163.0,4.5,"['Indian', 'Comfort Food', 'Soul Food']",/biz/street-food-vibes-indian-cafe-union-city,92.0
+Newark.CA,Il Fornaio,166.0,4.7,['Italian'],/biz/il-fornaio-mountain-view,84.0
+Newark.CA,+PLUS,220.0,3.7,"['Bars', 'Salad', 'Burgers']",/biz/plus-newark-2,13.0
+Orange County,Javier’s - Crystal Cove,7.0,3.6,"['Mexican', 'Bars', 'Desserts']",/biz/javiers-crystal-cove-newport-coast,3700.0
+Orange County,Pom & Olive,43.0,4.3,"['Mediterranean', 'Salad', 'American (New)']",/biz/pom-and-olive-costa-mesa,1600.0
+Orange County,HONDA-YA Tustin,15.0,4.0,"['Sushi Bars', 'Izakaya', 'Noodles']",/biz/honda-ya-tustin-tustin,3100.0
+Orange County,CUCINA enoteca Irvine,19.0,3.9,"['Italian', 'Pizza', 'Wine Bars']",/biz/cucina-enoteca-irvine-irvine-2,2900.0
+Orange County,Bear Flag Fish,48.0,3.9,"['Seafood Markets', 'Seafood', 'Bars']",/biz/bear-flag-fish-newport-beach-3,1400.0
+Orange County,Eureka! - Irvine,68.0,3.8,['American (Traditional)'],/biz/eureka-irvine-irvine-2,1200.0
+Orange County,O Fine Japanese Cuisine,55.0,4.1,"['Sushi Bars', 'Japanese']",/biz/o-fine-japanese-cuisine-irvine-2,1300.0
+Orange County,American Grub,56.0,4.4,"['Burgers', 'American (Traditional)', 'Beer Bar']",/biz/american-grub-tustin,1300.0
+Orange County,Hako,81.0,4.4,"['Japanese', 'Sushi Bars']",/biz/hako-irvine,924.0
+Orange County,Bacchus Bar & Bistro,125.0,3.9,"['Wine Bars', 'Tapas/Small Plates', 'American (Traditional)']",/biz/bacchus-bar-and-bistro-irvine,409.0
+Orange County,Tai Chi Cuisine,144.0,3.3,['Chinese'],/biz/tai-chi-cuisine-irvine-10,292.0
+Orange County,Curry Up Now,131.0,3.8,['Indian'],/biz/curry-up-now-irvine,387.0
+Orange County,Angry Chickz,191.0,3.7,['Chicken Shop'],/biz/angry-chickz-aliso-viejo,89.0
+Orange County,Hai Master Kitchen,152.0,4.3,['Chinese'],/biz/hai-master-kitchen-laguna-hills-3,272.0
+Orange County,Aria Kitchen,196.0,4.7,"['Mexican', 'Cocktail Bars', 'Persian/Iranian']",/biz/aria-kitchen-irvine,59.0
+Park La Brea,All About the Bread,45.0,4.0,"['Sandwiches', 'Delis']",/biz/all-about-the-bread-los-angeles,1200.0
+Park La Brea,Swingers Diner,39.0,3.7,"['Diners', 'American (Traditional)', 'Breakfast & Brunch']",/biz/swingers-diner-los-angeles,1300.0
+Park La Brea,Pizzeria Mozza,3.0,4.0,['Pizza'],/biz/pizzeria-mozza-los-angeles-4,4600.0
+Park La Brea,Marmalade Cafe,14.0,4.1,"['American (New)', 'Breakfast & Brunch', 'Cafes']",/biz/marmalade-cafe-los-angeles-22,2700.0
+Park La Brea,The Cheesecake Factory,27.0,3.1,"['Desserts', 'American (Traditional)']",/biz/the-cheesecake-factory-los-angeles-12,1900.0
+Park La Brea,Lalibela Ethiopian Restaurant,91.0,4.5,['Ethiopian'],/biz/lalibela-ethiopian-restaurant-los-angeles,540.0
+Park La Brea,Blackbird Pizza Shop,95.0,4.4,"['Pizza', 'Salad', 'Chicken Wings']",/biz/blackbird-pizza-shop-los-angeles,503.0
+Park La Brea,COD Restaurant,60.0,4.1,"['Seafood', 'Chinese', 'Sushi Bars']",/biz/cod-restaurant-los-angeles,939.0
+Park La Brea,Della Terra Restaurant,65.0,4.0,"['Italian', 'Pizza', 'Pasta Shops']",/biz/della-terra-restaurant-los-angeles,866.0
+Park La Brea,Uncle Paulie’s Deli,112.0,4.1,"['Delis', 'Sandwiches', 'Salad']",/biz/uncle-paulies-deli-los-angeles-4,349.0
+Park La Brea,HiHo Cheeseburger | Mid Wilshire,103.0,4.1,"['American (New)', 'Burgers']",/biz/hiho-cheeseburger-mid-wilshire-los-angeles-2,422.0
+Park La Brea,Trejo’s Tacos - Farmers Market,137.0,3.0,['Tacos'],/biz/trejos-tacos-farmers-market-los-angeles,234.0
+Park La Brea,Umbrella Taco,183.0,4.5,['Tacos'],/biz/umbrella-taco-west-hollywood-2,88.0
+Park La Brea,Cafe Joanne,159.0,4.3,"['Coffee & Tea', 'Desserts', 'Breakfast & Brunch']",/biz/cafe-joanne-los-angeles-2,144.0
+Park La Brea,Island Boy Cafe,212.0,4.3,"['Caribbean', 'Cafes']",/biz/island-boy-cafe-los-angeles,25.0
+Philadelphia,Honey’s Sit-N-Eat,24.0,4.2,"['Southern', 'American (Traditional)']",/biz/honeys-sit-n-eat-philadelphia,1500.0
+Philadelphia,Dutch Eating Place,43.0,4.3,"['Breakfast & Brunch', 'Sandwiches', 'Juice Bars & Smoothies']",/biz/dutch-eating-place-philadelphia,874.0
+Philadelphia,Front Street Cafe,45.0,3.9,"['Bars', 'American (New)', 'Breakfast & Brunch']",/biz/front-street-cafe-philadelphia,824.0
+Philadelphia,Zahav,3.0,4.6,['Middle Eastern'],/biz/zahav-philadelphia,3400.0
+Philadelphia,Luke’s Lobster Rittenhouse,33.0,4.3,"['Seafood', 'Sandwiches', 'Soup']",/biz/lukes-lobster-rittenhouse-philadelphia,1200.0
+Philadelphia,Dim Sum House,69.0,3.9,"['Dim Sum', 'Cantonese', 'Venues & Event Spaces']",/biz/dim-sum-house-philadelphia,505.0
+Philadelphia,Rosy’s Taco Bar,87.0,3.9,['Tacos'],/biz/rosys-taco-bar-philadelphia,366.0
+Philadelphia,Royal Sushi & Izakaya,91.0,4.4,"['Izakaya', 'Bars', 'Sushi Bars']",/biz/royal-sushi-and-izakaya-philadelphia,347.0
+Philadelphia,DuBu,60.0,4.5,"['Korean', 'Vegetarian', 'Barbeque']",/biz/dubu-elkins-park,635.0
+Philadelphia,Chengdu Famous Food,112.0,4.1,"['Noodles', 'Szechuan']",/biz/chengdu-famous-food-philadelphia,257.0
+Philadelphia,SouthHouse,136.0,4.3,"['American (New)', 'Pubs']",/biz/southhouse-philadelphia,188.0
+Philadelphia,Real Food Eatery,104.0,4.3,"['American (Traditional)', 'Gluten-Free']",/biz/real-food-eatery-philadelphia,295.0
+Philadelphia,Rhythm and Brunch,157.0,4.0,"['American (New)', 'Breakfast & Brunch']",/biz/rhythm-and-brunch-philadelphia,122.0
+Philadelphia,Pera Turkish Cuisine,165.0,4.7,"['Turkish', 'Mediterranean', 'Seafood']",/biz/pera-turkish-cuisine-philadelphia,106.0
+Philadelphia,Nipotina,219.0,4.6,"['Sandwiches', 'Breakfast & Brunch', 'Steakhouses']",/biz/nipotina-philadelphia,16.0
+Phoenix,Angels Trumpet Ale House,35.0,4.1,"['American (New)', 'Gastropubs']",/biz/angels-trumpet-ale-house-phoenix,1300.0
+Phoenix,Lo-Lo’s Chicken & Waffles,4.0,3.8,"['Southern', 'Soul Food', 'Waffles']",/biz/lo-los-chicken-and-waffles-phoenix,2800.0
+Phoenix,Zookz Sandwiches,40.0,4.6,"['Sandwiches', 'Breakfast & Brunch', 'Coffee & Tea']",/biz/zookz-sandwiches-phoenix-phoenix-6,1200.0
+Phoenix,The Arrogant Butcher,3.0,4.0,"['American (Traditional)', 'Seafood', 'Cocktail Bars']",/biz/the-arrogant-butcher-phoenix-3,3100.0
+Phoenix,Durant’s,39.0,4.2,"['Steakhouses', 'Wine Bars', 'Diners']",/biz/durants-phoenix,1200.0
+Phoenix,Tacos Chiwas,63.0,4.3,['Mexican'],/biz/tacos-chiwas-phoenix-3,913.0
+Phoenix,Southern Rail,78.0,3.7,"['Southern', 'American (Traditional)']",/biz/southern-rail-phoenix-3,735.0
+Phoenix,TEXAZ Grill,69.0,4.1,"['Steakhouses', 'Barbeque', 'American (Traditional)']",/biz/texaz-grill-phoenix,812.0
+Phoenix,The Porch,62.0,3.8,"['Sports Bars', 'Cocktail Bars', 'American (New)']",/biz/the-porch-phoenix-2,917.0
+Phoenix,Babbo Italian Eatery,108.0,3.8,"['Pizza', 'Italian']",/biz/babbo-italian-eatery-phoenix,432.0
+Phoenix,Harvey’s Wineburger,100.0,4.0,"['Burgers', 'Chicken Wings', 'Sports Bars']",/biz/harveys-wineburger-phoenix,496.0
+Phoenix,Prado,135.0,3.9,"['Spanish', 'Tapas Bars', 'Breakfast & Brunch']",/biz/prado-paradise-valley-3,248.0
+Phoenix,Provision,185.0,3.7,"['Breakfast & Brunch', 'Cocktail Bars']",/biz/provision-phoenix-6,96.0
+Phoenix,The Sandwich Spot - Phoenix,176.0,4.8,"['Sandwiches', 'Salad', 'Breakfast & Brunch']",/biz/the-sandwich-spot-phoenix-phoenix,114.0
+Phoenix,Sidecar Social Club,201.0,4.6,"['Cocktail Bars', 'American (New)', 'Beer, Wine & Spirits']",/biz/sidecar-social-club-phoenix,65.0
+Pittsburgh,Smoke,37.0,3.7,['Tacos'],/biz/smoke-pittsburgh,520.0
+Pittsburgh,Monterey Bay Fish Grotto,26.0,4.2,"['Seafood', 'Bars', 'Venues & Event Spaces']",/biz/monterey-bay-fish-grotto-pittsburgh,679.0
+Pittsburgh,Everyday Noodles,13.0,4.2,"['Chinese', 'Noodles']",/biz/everyday-noodles-pittsburgh,934.0
+Pittsburgh,täkō,4.0,4.3,"['American (New)', 'Mexican']",/biz/t%C3%A4k%C5%8D-pittsburgh-4,1900.0
+Pittsburgh,Condado Tacos,6.0,4.0,"['Tacos', 'Bars', 'Tex-Mex']",/biz/condado-tacos-pittsburgh-5,1200.0
+Pittsburgh,Coughlin’s Law Kitchen and Ale House,79.0,3.7,"['American (New)', 'Burgers', 'Cocktail Bars']",/biz/coughlins-law-kitchen-and-ale-house-pittsburgh-3,280.0
+Pittsburgh,Dorothy 6 Blast Furnace Cafe,92.0,3.9,"['Lounges', 'American (New)']",/biz/dorothy-6-blast-furnace-cafe-homestead,235.0
+Pittsburgh,Max’s Allegheny Tavern,65.0,3.9,"['German', 'Pubs']",/biz/maxs-allegheny-tavern-pittsburgh,335.0
+Pittsburgh,The Speckled Egg PGH,56.0,4.4,"['Breakfast & Brunch', 'Cocktail Bars', 'Diners']",/biz/the-speckled-egg-pgh-pittsburgh,372.0
+Pittsburgh,Crepes Parisiennes,100.0,4.0,"['Creperies', 'French', 'Coffee & Tea']",/biz/crepes-parisiennes-pittsburgh-2,221.0
+Pittsburgh,Diners 2+1,122.0,4.7,"['Sushi Bars', 'Poke']",/biz/diners-2-1-pittsburgh-2,174.0
+Pittsburgh,Pasha Cafe & Lounge,110.0,4.4,"['Mediterranean', 'Turkish', 'Breakfast & Brunch']",/biz/pasha-cafe-and-lounge-pittsburgh-2,205.0
+Pittsburgh,Sushi Kim 2,190.0,4.7,"['Korean', 'Sushi Bars', 'Soup']",/biz/sushi-kim-2-pittsburgh,39.0
+Pittsburgh,Spirits & Tales,154.0,3.4,"['Lounges', 'Cocktail Bars', 'Tapas/Small Plates']",/biz/spirits-and-tales-pittsburgh,114.0
+Pittsburgh,Eighteen,230.0,4.1,"['Kosher', 'Wine Bars', 'Mediterranean']",/biz/eighteen-pittsburgh-2,9.0
+Pleasanton,Alberto’s Cantina,35.0,2.4,"['Sports Bars', 'Mexican']",/biz/albertos-cantina-pleasanton,703.0
+Pleasanton,Jim’s Country Style Restaurant,41.0,4.0,"['Breakfast & Brunch', 'Southern']",/biz/jims-country-style-restaurant-pleasanton-3,651.0
+Pleasanton,Coco Cabana,22.0,3.5,"['Latin American', 'Argentine', 'Peruvian']",/biz/coco-cabana-dublin-6,987.0
+Pleasanton,Burma Burma,9.0,4.3,"['Burmese', 'Caterers']",/biz/burma-burma-dublin,1500.0
+Pleasanton,Seoul Jung Korean BBQ,11.0,3.3,"['Korean', 'Barbeque']",/biz/seoul-jung-korean-bbq-dublin,1500.0
+Pleasanton,Chili’s,89.0,2.4,"['Tex-Mex', 'American (Traditional)', 'Bars']",/biz/chilis-pleasanton-14,400.0
+Pleasanton,Local Poke,87.0,4.4,"['Poke', 'Hawaiian']",/biz/local-poke-pleasanton,434.0
+Pleasanton,New York Pizza,75.0,3.5,"['Pizza', 'Italian', 'Chicken Wings']",/biz/new-york-pizza-pleasanton-6,468.0
+Pleasanton,Experience Burma Restaurant and Bar,73.0,4.2,"['Burmese', 'Vegetarian', 'Vegan']",/biz/experience-burma-restaurant-and-bar-pleasanton,471.0
+Pleasanton,King Wah,120.0,3.2,"['Dim Sum', 'Seafood', 'Cantonese']",/biz/king-wah-pleasanton,281.0
+Pleasanton,Nick The Greek,130.0,3.8,['Greek'],/biz/nick-the-greek-dublin,249.0
+Pleasanton,Elevation LVK,134.0,4.1,"['American (New)', 'Bars', 'Venues & Event Spaces']",/biz/elevation-lvk-livermore-2,236.0
+Pleasanton,Dino’s Pizza Kitchen,184.0,4.8,"['Pizza', 'Desserts', 'Salad']",/biz/dinos-pizza-kitchen-livermore,99.0
+Pleasanton,Annachi Kadai,179.0,3.2,['Indian'],/biz/annachi-kadai-pleasanton-2,105.0
+Pleasanton,Teriyaki City Grill - Pleasanton,200.0,4.1,"['Fast Food', 'Teppanyaki']",/biz/teriyaki-city-grill-pleasanton-pleasanton,63.0
+Portland,Elephants Delicatessen,35.0,4.3,"['Soup', 'American (Traditional)', 'Pizza']",/biz/elephants-delicatessen-portland,843.0
+Portland,Serratto,37.0,4.0,"['Italian', 'Wine Bars', 'French']",/biz/serratto-portland,719.0
+Portland,Nuestra Cocina,45.0,4.3,"['Mexican', 'Latin American']",/biz/nuestra-cocina-portland,622.0
+Portland,Screen Door Eastside,1.0,4.4,"['Southern', 'Cajun/Creole', 'Breakfast & Brunch']",/biz/screen-door-eastside-portland-3,8400.0
+Portland,Urban Farmer,27.0,3.8,"['Steakhouses', 'American (Traditional)']",/biz/urban-farmer-portland,1100.0
+Portland,Meat Cheese Bread,73.0,4.1,"['Sandwiches', 'Breakfast & Brunch', 'Salad']",/biz/meat-cheese-bread-portland,426.0
+Portland,Swine Moonshine & Whiskey Bar,82.0,4.0,"['Cocktail Bars', 'American (New)', 'Whiskey Bars']",/biz/swine-moonshine-and-whiskey-bar-portland-6,372.0
+Portland,Master Kong,68.0,4.2,"['Noodles', 'Chinese']",/biz/master-kong-portland,452.0
+Portland,Murata Restaurant,77.0,4.4,"['Japanese', 'Sushi Bars', 'Wine Bars']",/biz/murata-restaurant-portland,403.0
+Portland,Portland Kettle,125.0,4.3,"['Soup', 'Salad', 'Comfort Food']",/biz/portland-kettle-portland,190.0
+Portland,Hat Yai,111.0,4.2,['Thai'],/biz/hat-yai-portland-2,242.0
+Portland,Beastro By Marshawn Lynch,144.0,3.7,"['Hawaiian', 'Korean', 'Breakfast & Brunch']",/biz/beastro-by-marshawn-lynch-portland,155.0
+Portland,Wu-Rons,184.0,4.6,"['Ramen', 'Beer Bar']",/biz/wu-rons-portland-2,56.0
+Portland,Fish-San,187.0,4.8,"['Sushi Bars', 'Japanese', 'Poke']",/biz/fish-san-portland,51.0
+Portland,Pasture PDX,201.0,4.5,"['Butcher', 'Wine Bars', 'Sandwiches']",/biz/pasture-pdx-portland,33.0
+Saint Paul,Sea Salt Eatery,6.0,4.0,"['Seafood', 'Tacos', 'Burgers']",/biz/sea-salt-eatery-minneapolis,808.0
+Saint Paul,Hi-Lo Diner,12.0,4.0,"['Diners', 'Breakfast & Brunch', 'Ice Cream & Frozen Yogurt']",/biz/hi-lo-diner-minneapolis,604.0
+Saint Paul,Chimborazo,7.0,4.6,['Latin American'],/biz/chimborazo-minneapolis,805.0
+Saint Paul,Moscow On The Hill,14.0,4.3,"['Russian', 'Bars']",/biz/moscow-on-the-hill-saint-paul-2,566.0
+Saint Paul,J. Selby’s,23.0,4.3,"['Vegan', 'American (Traditional)']",/biz/j-selbys-saint-paul-2,415.0
+Saint Paul,Yarusso Bros Italian Restaurant,95.0,3.8,['Italian'],/biz/yarusso-bros-italian-restaurant-saint-paul,141.0
+Saint Paul,Little Szechuan Hot Pot,55.0,3.6,"['Szechuan', 'Hot Pot']",/biz/little-szechuan-hot-pot-saint-paul-3,269.0
+Saint Paul,New Fresh Wok,91.0,3.7,"['Szechuan', 'Sushi Bars', 'Japanese']",/biz/new-fresh-wok-falcon-heights,157.0
+Saint Paul,Dark Horse Bar & Eatery,62.0,3.8,"['American (Traditional)', 'Wine Bars', 'Cocktail Bars']",/biz/dark-horse-bar-and-eatery-st-paul-2,248.0
+Saint Paul,Taste of Scandinavia Bakery & Cafe,135.0,4.0,"['Bakeries', 'Cafes', 'Breakfast & Brunch']",/biz/taste-of-scandinavia-bakery-and-cafe-little-canada-2,79.0
+Saint Paul,Oliver’s - Shoreview,108.0,4.5,"['Bars', 'American (Traditional)', 'Pizza']",/biz/oliver-s-shoreview-shoreview,115.0
+Saint Paul,The Bungalow Club,122.0,4.3,"['American (Traditional)', 'Desserts', 'Beer, Wine & Spirits']",/biz/the-bungalow-club-minneapolis,94.0
+Saint Paul,Coffee Cup on Randolph,150.0,4.0,"['Coffee & Tea', 'American (Traditional)', 'Waffles']",/biz/coffee-cup-on-randolph-saint-paul-2,58.0
+Saint Paul,Dock & Paddle,188.0,3.4,"['Salad', 'Tacos', 'American (Traditional)']",/biz/dock-and-paddle-saint-paul,19.0
+Saint Paul,Big Biscuit Bar,220.0,4.0,['Breakfast & Brunch'],/biz/big-biscuit-bar-saint-paul,4.0
+Salem,Super Pho,36.0,3.4,['Vietnamese'],/biz/super-pho-salem-2,247.0
+Salem,China Gourmet,43.0,4.3,['Chinese'],/biz/china-gourmet-salem,234.0
+Salem,Yan Yan Chinese Cuisine,45.0,4.2,['Chinese'],/biz/yan-yan-chinese-cuisine-salem,229.0
+Salem,Santiam Brewing,26.0,4.4,"['Brewpubs', 'Fish & Chips', 'Breakfast & Brunch']",/biz/santiam-brewing-salem-2,281.0
+Salem,In-N-Out Burger,9.0,3.7,"['Burgers', 'Fast Food']",/biz/in-n-out-burger-keizer-2,437.0
+Salem,John’s Chinese Restaurant,83.0,3.8,['Chinese'],/biz/johns-chinese-restaurant-keizer,139.0
+Salem,Original Roadhouse Grill,56.0,2.7,['Steakhouses'],/biz/original-roadhouse-grill-salem,186.0
+Salem,Mina’s Cafe,84.0,4.2,"['American (Traditional)', 'Thai']",/biz/minas-cafe-salem,137.0
+Salem,Masonry Grill,77.0,3.3,"['Burgers', 'Pizza', 'American (Traditional)']",/biz/masonry-grill-salem-3,146.0
+Salem,Nancy Jo’s Burgers & Fries,131.0,3.5,"['Burgers', 'Fast Food']",/biz/nancy-jos-burgers-and-fries-salem-2,62.0
+Salem,Big Wig Donuts,119.0,4.6,"['Donuts', 'Vegan', 'Gluten-Free']",/biz/big-wig-donuts-salem-2,80.0
+Salem,Tony’s Taco Shop,100.0,4.1,['Mexican'],/biz/tonys-taco-shop-salem-2,114.0
+Salem,TokyRoll Sushi & Poké - Salem,161.0,4.0,"['Sushi Bars', 'Poke']",/biz/tokyroll-sushi-and-pok%C3%A9-salem-salem,35.0
+Salem,Oriental Sushi & Chinese,145.0,4.3,"['Chinese', 'Sushi Bars', 'Japanese']",/biz/oriental-sushi-and-chinese-salem,49.0
+Salem,G3 Pizza & Burgers,212.0,4.6,"['Pizza', 'Burgers', 'Coffee & Tea']",/biz/g3-pizza-and-burgers-aumsville,8.0
+Salt Lake City,Stoneground Kitchen,38.0,3.8,"['Pizza', 'Italian', 'Beverage Store']",/biz/stoneground-kitchen-salt-lake-city-2,611.0
+Salt Lake City,Squatters Pub Brewery,12.0,3.8,"['Brewpubs', 'Salad']",/biz/squatters-pub-brewery-salt-lake-city-4,1300.0
+Salt Lake City,Blue Iguana,42.0,3.4,"['Mexican', 'Seafood', 'Vegetarian']",/biz/blue-iguana-salt-lake-city-3,538.0
+Salt Lake City,HSL,28.0,4.4,['American (New)'],/biz/hsl-salt-lake-city,711.0
+Salt Lake City,Penny Ann’s Cafe,11.0,4.2,"['Cafes', 'American (Traditional)', 'Breakfast & Brunch']",/biz/penny-anns-cafe-salt-lake-city,1400.0
+Salt Lake City,Monkeywrench,82.0,4.4,"['Desserts', 'Vegan', 'Ice Cream & Frozen Yogurt']",/biz/monkeywrench-salt-lake-city-3,281.0
+Salt Lake City,Beaumont Bakery & Cafe,64.0,3.9,"['Coffee & Tea', 'Bakeries', 'Cafes']",/biz/beaumont-bakery-and-cafe-salt-lake-city,389.0
+Salt Lake City,Christopher’s Prime Tavern & Grill,73.0,3.5,"['Seafood', 'Steakhouses']",/biz/christophers-prime-tavern-and-grill-salt-lake-city-3,336.0
+Salt Lake City,Ivy & Varley,78.0,4.1,"['Bars', 'American (Traditional)', 'Venues & Event Spaces']",/biz/ivy-and-varley-salt-lake-city,304.0
+Salt Lake City,Hook & Reel Cajun Seafood & Bar,131.0,4.1,['Seafood'],/biz/hook-and-reel-cajun-seafood-and-bar-west-valley-city-2,135.0
+Salt Lake City,Los Tapatios Taco Grill,135.0,4.4,['Mexican'],/biz/los-tapatios-taco-grill-salt-lake-city,127.0
+Salt Lake City,Sonoma Grill & Wine Bar,143.0,3.7,"['Italian', 'Asian Fusion', 'Tapas/Small Plates']",/biz/sonoma-grill-and-wine-bar-salt-lake-city,109.0
+Salt Lake City,Copper Canyon Grill House And Tavern,150.0,2.5,"['American (New)', 'Breakfast & Brunch', 'Bars']",/biz/copper-canyon-grill-house-and-tavern-salt-lake-city,88.0
+Salt Lake City,Tacos Hidalgo,169.0,4.8,"['Mexican', 'Food Stands']",/biz/tacos-hidalgo-salt-lake-city,59.0
+Salt Lake City,Street Tacos Don Joaquin -Salt Lake,206.0,4.1,['Tacos'],/biz/street-tacos-don-joaquin-salt-lake-salt-lake-city,20.0
+San Jose,Pacific Catch,26.0,3.9,"['Seafood', 'Sushi Bars', 'Tacos']",/biz/pacific-catch-campbell-2,1900.0
+San Jose,The Farmers Union,47.0,3.5,"['American (Traditional)', 'Gastropubs']",/biz/the-farmers-union-san-jose,1300.0
+San Jose,Bun Bo Hue An Nam,21.0,4.0,"['Vietnamese', 'Soup']",/biz/bun-bo-hue-an-nam-san-jose,2100.0
+San Jose,The Breakfast Club,4.0,3.9,"['Breakfast & Brunch', 'Waffles', 'American (Traditional)']",/biz/the-breakfast-club-san-jose,3800.0
+San Jose,ToBang,16.0,4.1,"['Korean', 'Barbeque']",/biz/tobang-santa-clara-2,2500.0
+San Jose,Maya’s Cafe,81.0,4.3,"['Latin American', 'Honduran']",/biz/mayas-cafe-san-jose-2,704.0
+San Jose,Brew City Grill,96.0,4.4,"['Burgers', 'Pubs', 'Brewpubs']",/biz/brew-city-grill-campbell-3,601.0
+San Jose,Chicken Meets Rice,55.0,4.3,"['Chicken Shop', 'Asian Fusion', 'Chinese']",/biz/chicken-meets-rice-santa-clara,1200.0
+San Jose,Water Tower Kitchen,67.0,4.3,"['American (New)', 'Sports Bars', 'Cocktail Bars']",/biz/water-tower-kitchen-campbell,802.0
+San Jose,Umi Hand Roll Bar,134.0,3.9,['Sushi Bars'],/biz/umi-hand-roll-bar-san-jose-2,276.0
+San Jose,Slater’s 50/50 - San Jose,141.0,3.5,"['Burgers', 'American (New)', 'Bars']",/biz/slaters-50-50-san-jose-san-jose,245.0
+San Jose,Uncle John’s Pancake House - The Alameda,104.0,4.4,['Breakfast & Brunch'],/biz/uncle-johns-pancake-house-the-alameda-san-jose,477.0
+San Jose,Thaibodia Bistro,190.0,4.5,"['Thai', 'Cambodian', 'Chicken Wings']",/biz/thaibodia-bistro-san-jose,67.0
+San Jose,Milk Belly Bakery,182.0,4.4,"['Bakeries', 'Breakfast & Brunch', 'Food Delivery Services']",/biz/milk-belly-bakery-san-jose,90.0
+San Jose,Nagoya Sushi,200.0,4.5,"['Japanese', 'Sushi Bars']",/biz/nagoya-sushi-san-jose,53.0
+San Leandro,Scolari’s,15.0,4.2,"['Burgers', 'Sandwiches', 'Salad']",/biz/scolaris-alameda,1300.0
+San Leandro,Frodo Joe’s Coffee & Tea,32.0,4.3,"['Coffee & Tea', 'Breakfast & Brunch', 'Creperies']",/biz/frodo-joes-coffee-and-tea-san-lorenzo,839.0
+San Leandro,Zocalo Coffeehouse,22.0,4.1,"['Coffee & Tea', 'Coffee Roasteries', 'Breakfast & Brunch']",/biz/zocalo-coffeehouse-san-leandro-2,1100.0
+San Leandro,Fifth Wheel,34.0,4.1,"['American (Traditional)', 'Breakfast & Brunch']",/biz/fifth-wheel-san-leandro,788.0
+San Leandro,Vientian Cafe,20.0,4.2,"['Vietnamese', 'Thai', 'Laotian']",/biz/vientian-cafe-oakland-3,1200.0
+San Leandro,Little Namking,96.0,3.8,['Chinese'],/biz/little-namking-san-leandro-2,323.0
+San Leandro,Pho An Hoa,53.0,3.7,"['Vietnamese', 'Chinese']",/biz/pho-an-hoa-san-leandro,594.0
+San Leandro,Minami Sushi,49.0,4.0,"['Japanese', 'Sushi Bars', 'Sports Bars']",/biz/minami-sushi-san-leandro,631.0
+San Leandro,Ramen101,52.0,3.9,['Ramen'],/biz/ramen101-san-leandro,600.0
+San Leandro,Fire Wings,125.0,3.4,['Chicken Wings'],/biz/fire-wings-hayward,245.0
+San Leandro,Vons Chicken,140.0,4.1,"['Chicken Wings', 'Korean']",/biz/vons-chicken-hayward,196.0
+San Leandro,Chinese Bakery and Deli,126.0,3.8,"['Bakeries', 'Chinese', 'Delis']",/biz/chinese-bakery-and-deli-san-leandro,237.0
+San Leandro,Great Wall Restaurant,149.0,3.3,"['Chinese', 'Seafood']",/biz/great-wall-restaurant-san-leandro,173.0
+San Leandro,Mochinut San Leandro,176.0,3.7,"['Donuts', 'Coffee & Tea', 'Hot Dogs']",/biz/mochinut-san-leandro-san-leandro,85.0
+San Leandro,Lao and Sushi Bistro,205.0,4.6,"['Sushi Bars', 'Laotian']",/biz/lao-and-sushi-bistro-alameda,27.0
+San Mateo,"Kincaid’s Fish, Chop & Steakhouse",29.0,3.5,"['Seafood', 'Steakhouses', 'American (Traditional)']",/biz/kincaids-fish-chop-and-steakhouse-burlingame,1300.0
+San Mateo,Himawari,9.0,3.8,"['Ramen', 'Noodles']",/biz/himawari-san-mateo-2,2300.0
+San Mateo,Cuisinett Bistro & Market,46.0,4.3,"['French', 'Comfort Food']",/biz/cuisinett-bistro-and-market-san-carlos,930.0
+San Mateo,Mokutanya,7.0,3.9,['Ramen'],/biz/mokutanya-burlingame,2300.0
+San Mateo,Gyu-Kaku Japanese BBQ,37.0,3.7,"['Japanese', 'Barbeque', 'Asian Fusion']",/biz/gyu-kaku-japanese-bbq-san-mateo,1100.0
+San Mateo,Kaz Teriyaki Grill,82.0,3.9,['Japanese'],/biz/kaz-teriyaki-grill-san-mateo,606.0
+San Mateo,Vespucci Ristorante Italiano,78.0,4.3,['Italian'],/biz/vespucci-ristorante-italiano-san-mateo-3,625.0
+San Mateo,Kemuri Japanese Barú,69.0,4.0,"['Japanese', 'Bars', 'Asian Fusion']",/biz/kemuri-japanese-bar%C3%BA-redwood-city-3,686.0
+San Mateo,Mykonos Meze,85.0,4.6,"['Bars', 'Greek', 'Tapas/Small Plates']",/biz/mykonos-meze-burlingame,572.0
+San Mateo,MidiCi Neapolitan Pizza - San Mateo,121.0,3.7,"['Pizza', 'Wine Bars', 'Tapas/Small Plates']",/biz/midici-neapolitan-pizza-san-mateo-san-mateo,392.0
+San Mateo,Koja Kitchen,116.0,3.7,"['Japanese', 'Korean', 'Asian Fusion']",/biz/koja-kitchen-san-mateo-2,427.0
+San Mateo,Centro Pizza,141.0,4.4,"['Pizza', 'Salad']",/biz/centro-pizza-burlingame,276.0
+San Mateo,Silver Lake Seafood Restaurant,146.0,4.0,['Chinese'],/biz/silver-lake-seafood-restaurant-san-mateo-2,261.0
+San Mateo,SAJJ Mediterranean,153.0,4.2,"['Mediterranean', 'Middle Eastern', 'Halal']",/biz/sajj-mediterranean-san-mateo,213.0
+San Mateo,Hing Lung - Temp. CLOSED,196.0,3.7,"['Noodles', 'Cantonese']",/biz/hing-lung-san-mateo-2,58.0
+Santa Clara,Paesano Ristorante Italiano,45.0,4.1,['Italian'],/biz/paesano-ristorante-italiano-san-jose,1300.0
+Santa Clara,Pizza Antica,9.0,3.8,['Pizza'],/biz/pizza-antica-san-jose,3300.0
+Santa Clara,Ozumo Santana Row,42.0,4.1,"['Izakaya', 'Sushi Bars']",/biz/ozumo-santana-row-san-jose-2,1400.0
+Santa Clara,ToBang,12.0,4.1,"['Korean', 'Barbeque']",/biz/tobang-santa-clara-2,2500.0
+Santa Clara,Bill’s Cafe,17.0,4.1,"['Breakfast & Brunch', 'American (Traditional)']",/biz/bills-cafe-san-jose-25,2300.0
+Santa Clara,Su’s Mongolian BBQ,86.0,3.8,"['Barbeque', 'Buffets', 'Mongolian']",/biz/sus-mongolian-bbq-santa-clara-2,689.0
+Santa Clara,Demiya,84.0,4.0,['Japanese'],/biz/demiya-san-jose,696.0
+Santa Clara,China Stix Restaurant,68.0,3.4,"['Chinese', 'Seafood']",/biz/china-stix-restaurant-santa-clara,787.0
+Santa Clara,Sweet Maple,95.0,4.1,"['Breakfast & Brunch', 'American (Traditional)', 'Coffee & Tea']",/biz/sweet-maple-cupertino,613.0
+Santa Clara,Mastro’s Steakhouse,108.0,3.8,"['Steakhouses', 'Seafood']",/biz/mastro-s-steakhouse-santa-clara,428.0
+Santa Clara,Men-Bei Ramen,101.0,4.0,['Ramen'],/biz/men-bei-ramen-santa-clara-2,515.0
+Santa Clara,Indian Tadka,125.0,4.4,['Indian'],/biz/indian-tadka-sunnyvale,336.0
+Santa Clara,Top Dumpling,181.0,4.1,['Asian Fusion'],/biz/top-dumpling-sunnyvale,117.0
+Santa Clara,BN Chicken,150.0,4.0,['Korean'],/biz/bn-chicken-santa-clara-2,247.0
+Santa Clara,Olioli Hawaiian BBQ,207.0,4.7,"['Fast Food', 'Barbeque']",/biz/olioli-hawaiian-bbq-san-jose,46.0
+Schaumburg,Portillo’s & Barnelli’s Schaumburg,27.0,3.8,"['Hot Dogs', 'Salad', 'Burgers']",/biz/portillos-and-barnellis-schaumburg-schaumburg,641.0
+Schaumburg,Kura Revolving Sushi Bar,23.0,3.8,"['Sushi Bars', 'Conveyor Belt Sushi']",/biz/kura-revolving-sushi-bar-schaumburg,669.0
+Schaumburg,Bahama Breeze,21.0,3.6,"['Bars', 'Seafood', 'Latin American']",/biz/bahama-breeze-schaumburg-4,712.0
+Schaumburg,Brazil Express Churrasco Grill,32.0,4.4,"['Brazilian', 'Steakhouses', 'Buffets']",/biz/brazil-express-churrasco-grill-schaumburg-3,568.0
+Schaumburg,Lou Malnati’s Pizzeria,16.0,4.2,"['Pizza', 'Italian', 'Sandwiches']",/biz/lou-malnatis-pizzeria-schaumburg-2,792.0
+Schaumburg,Lalo’s Mexican Restaurant - Schaumburg,92.0,3.3,"['Mexican', 'Bars', 'Seafood']",/biz/lalo-s-mexican-restaurant-schaumburg-schaumburg,247.0
+Schaumburg,Don’s Dock Seafood,58.0,4.2,"['Seafood Markets', 'Seafood']",/biz/dons-dock-seafood-des-plaines,373.0
+Schaumburg,Miller’s Ale House,84.0,3.4,"['Sports Bars', 'American (Traditional)']",/biz/millers-ale-house-schaumburg-3,272.0
+Schaumburg,Farmhouse On North,90.0,4.1,"['American (New)', 'Beer Bar', 'Desserts']",/biz/farmhouse-on-north-barrington,249.0
+Schaumburg,Neoteca,120.0,4.1,"['Pizza', 'Italian', 'Wine Bars']",/biz/neoteca-barrington,159.0
+Schaumburg,The Capital Grille,125.0,4.1,"['Steakhouses', 'Seafood', 'Wine Bars']",/biz/the-capital-grille-schaumburg-2,144.0
+Schaumburg,Franco’s Cucina Italian Bakery & Deli,112.0,4.4,"['Bakeries', 'Caterers', 'Delis']",/biz/francos-cucina-italian-bakery-and-deli-streamwood,179.0
+Schaumburg,Tropical Time,154.0,3.8,['Caribbean'],/biz/tropical-time-northlake,78.0
+Schaumburg,Rebel Kitchen + Bar,162.0,4.1,"['Bars', 'American (Traditional)', 'Breakfast & Brunch']",/biz/rebel-kitchen-bar-lombard,65.0
+Schaumburg,India Foodie Lounge,232.0,4.4,"['Bars', 'Indian']",/biz/india-foodie-lounge-palatine,5.0
+Somerville,The Friendly Toast,3.0,4.3,"['Bars', 'Breakfast & Brunch', 'Diners']",/biz/the-friendly-toast-back-bay,2800.0
+Somerville,Café Luna,8.0,4.2,"['Coffee & Tea', 'Sandwiches', 'Breakfast & Brunch']",/biz/caf%C3%A9-luna-cambridge-3,1700.0
+Somerville,Fuji at Assembly,38.0,4.2,"['Sushi Bars', 'Salad', 'Asian Fusion']",/biz/fuji-at-assembly-somerville-3,646.0
+Somerville,Posto,18.0,4.0,"['Italian', 'Pizza']",/biz/posto-somerville,1000.0
+Somerville,The Smoke Shop BBQ - Kendall Square,34.0,3.9,"['Southern', 'Barbeque', 'Whiskey Bars']",/biz/the-smoke-shop-bbq-kendall-square-cambridge,688.0
+Somerville,Desfina Restaurant,94.0,3.9,"['Greek', 'Mediterranean', 'American (Traditional)']",/biz/desfina-restaurant-cambridge,276.0
+Somerville,Out of the Blue,96.0,4.0,['Seafood'],/biz/out-of-the-blue-somerville,272.0
+Somerville,Ariana Restaurant,52.0,4.4,['Afghan'],/biz/ariana-restaurant-brighton,484.0
+Somerville,The Abbey,89.0,3.7,"['American (New)', 'Cocktail Bars', 'Pubs']",/biz/the-abbey-cambridge,298.0
+Somerville,Pepi’s Pizzeria,144.0,3.8,['Pizza'],/biz/pepis-pizzeria-somerville,127.0
+Somerville,Black Sheep Bagel Cafe,106.0,4.2,"['Bagels', 'Coffee & Tea', 'Breakfast & Brunch']",/biz/black-sheep-bagel-cafe-cambridge-2,241.0
+Somerville,Flour Bakery + Cafe,100.0,4.2,"['Coffee & Tea', 'Bakeries', 'Sandwiches']",/biz/flour-bakery-cafe-cambridge-2,254.0
+Somerville,Parla XXI,189.0,3.6,"['Cocktail Bars', 'Tapas/Small Plates']",/biz/parla-xxi-somerville,53.0
+Somerville,Comfort Kitchen,183.0,4.6,"['Comfort Food', 'Caribbean', 'Pan Asian']",/biz/comfort-kitchen-dorchester,59.0
+Somerville,Deep Cuts,218.0,4.5,"['Breweries', 'Sandwiches', 'Music Venues']",/biz/deep-cuts-medford,19.0
+Sunnyvale,Ramen Nagi,13.0,4.4,['Ramen'],/biz/ramen-nagi-santa-clara,2200.0
+Sunnyvale,Eureka! - Mountain View,34.0,3.8,['American (Traditional)'],/biz/eureka-mountain-view-mountain-view-2,1300.0
+Sunnyvale,Chaats And Currys,46.0,3.8,"['Indian', 'Halal', 'Fast Food']",/biz/chaats-and-currys-sunnyvale-6,1100.0
+Sunnyvale,Puesto Santa Clara,20.0,3.9,"['Mexican', 'Cocktail Bars']",/biz/puesto-santa-clara-santa-clara-2,1700.0
+Sunnyvale,Inchin’s Bamboo Garden,40.0,2.8,"['Asian Fusion', 'Chinese', 'Indian']",/biz/inchins-bamboo-garden-sunnyvale-3,1200.0
+Sunnyvale,Urfa Bistro,96.0,4.4,"['Mediterranean', 'Turkish', 'Middle Eastern']",/biz/urfa-bistro-los-altos,437.0
+Sunnyvale,Kumako Ramen Den,85.0,4.6,['Ramen'],/biz/kumako-ramen-den-san-jose-3,541.0
+Sunnyvale,Fleming’s Prime Steakhouse & Wine Bar,53.0,4.3,"['Wine Bars', 'Steakhouses', 'Seafood']",/biz/fleming-s-prime-steakhouse-and-wine-bar-santa-clara-5,963.0
+Sunnyvale,Hanabusa Café,77.0,3.6,"['Desserts', 'Cafes']",/biz/hanabusa-caf%C3%A9-sunnyvale,629.0
+Sunnyvale,Ajito,110.0,4.0,['Japanese'],/biz/ajito-cupertino,347.0
+Sunnyvale,Danawa,132.0,3.9,"['Asian Fusion', 'Korean', 'Lounges']",/biz/danawa-santa-clara-2,281.0
+Sunnyvale,Indian Tadka,114.0,4.4,['Indian'],/biz/indian-tadka-sunnyvale,336.0
+Sunnyvale,Sizzling Lunch,172.0,4.4,"['Steakhouses', 'Japanese']",/biz/sizzling-lunch-mountain-view,114.0
+Sunnyvale,Egglicious India,176.0,4.7,['Indian'],/biz/egglicious-india-san-jose,101.0
+Sunnyvale,SV Cocina and Pupuseria,205.0,4.5,['Salvadoran'],/biz/sv-cocina-and-pupuseria-sunnyvale,34.0
+Torrance,Tony’s On the Pier,44.0,3.4,"['Seafood', 'Cocktail Bars', 'Steakhouses']",/biz/tonys-on-the-pier-redondo-beach,1300.0
+Torrance,CoCo Ichibanya,27.0,3.9,['Japanese Curry'],/biz/coco-ichibanya-torrance,1600.0
+Torrance,BJ’s Restaurant & Brewhouse,33.0,2.8,"['Pizza', 'American (Traditional)', 'Brewpubs']",/biz/bjs-restaurant-and-brewhouse-torrance,1500.0
+Torrance,The San Franciscan,47.0,3.9,"['Karaoke', 'American (Traditional)', 'Steakhouses']",/biz/the-san-franciscan-torrance,1200.0
+Torrance,Jus’ Poke,13.0,4.6,"['Hawaiian', 'Poke']",/biz/jus-poke-redondo-beach,2200.0
+Torrance,the Hook & Plow Hermosa,81.0,4.1,"['American (New)', 'Bars', 'Seafood']",/biz/the-hook-and-plow-hermosa-hermosa-beach,697.0
+Torrance,mar’sel,78.0,4.1,"['American (New)', 'Diners', 'Seafood']",/biz/marsel-rancho-palos-verdes,723.0
+Torrance,Darrow’s New Orleans Grill,49.0,4.4,"['Cajun/Creole', 'Bars', 'Breakfast & Brunch']",/biz/darrows-new-orleans-grill-carson,1200.0
+Torrance,Sea Level Restaurant & Lounge,74.0,4.2,"['American (New)', 'Lounges', 'Seafood']",/biz/sea-level-restaurant-and-lounge-redondo-beach-2,827.0
+Torrance,Mama Ds Hermosa Beach,120.0,4.6,"['Italian', 'Pizza']",/biz/mama-ds-hermosa-beach-hermosa-beach,379.0
+Torrance,La Bella Napoli,116.0,4.4,"['Pizza', 'Italian', 'Desserts']",/biz/la-bella-napoli-torrance-2,410.0
+Torrance,Panelas Brazil Cuisine,118.0,4.5,"['Brazilian', 'Sandwiches', 'Empanadas']",/biz/panelas-brazil-cuisine-redondo-beach,390.0
+Torrance,Kurisaki,155.0,4.4,"['Japanese', 'Sushi Bars']",/biz/kurisaki-redondo-beach,212.0
+Torrance,The Rex Seaside Steakhouse,157.0,3.9,['Steakhouses'],/biz/the-rex-seaside-steakhouse-redondo-beach,206.0
+Torrance,Baba’s Deli Subs,196.0,4.9,"['Sandwiches', 'Salad', 'Delis']",/biz/babas-deli-subs-torrance,73.0
+Tucson,Blue Willow Restaurant & Gift Shop,23.0,4.0,"['American (New)', 'Breakfast & Brunch', 'Cocktail Bars']",/biz/blue-willow-restaurant-and-gift-shop-tucson-2,764.0
+Tucson,Smokey Mo,37.0,4.5,"['Barbeque', 'Burgers', 'Sandwiches']",/biz/smokey-mo-tucson,603.0
+Tucson,Agustin Kitchen,36.0,3.4,"['American (New)', 'French', 'Cocktail Bars']",/biz/agustin-kitchen-tucson-3,606.0
+Tucson,5 Points Market & Restaurant,31.0,4.3,"['American (New)', 'Breakfast & Brunch', 'Vegetarian']",/biz/5-points-market-and-restaurant-tucson,662.0
+Tucson,Kingfisher Bar & Grill,41.0,3.8,"['Seafood', 'Lounges']",/biz/kingfisher-bar-and-grill-tucson-2,594.0
+Tucson,47 Scott - Temp. CLOSED,68.0,4.1,"['Comfort Food', 'American (Traditional)', 'Cocktail Bars']",/biz/47-scott-tucson,460.0
+Tucson,Vero Amore - Swan,56.0,3.9,"['Pizza', 'Italian']",/biz/vero-amore-swan-tucson-2,527.0
+Tucson,D’s Island Grill JA,95.0,4.5,['Caribbean'],/biz/ds-island-grill-ja-tucson-2,281.0
+Tucson,Feast,54.0,4.1,['American (New)'],/biz/feast-tucson-2,530.0
+Tucson,BBQ Rush Restaurant,136.0,3.9,['Barbeque'],/biz/bbq-rush-restaurant-tucson-2,153.0
+Tucson,Zio Peppe,126.0,4.1,"['Pizza', 'Italian']",/biz/zio-peppe-tucson,188.0
+Tucson,Caravan Grill,141.0,4.4,"['Halal', 'Mediterranean', 'Bakeries']",/biz/caravan-grill-tucson-2,140.0
+Tucson,Raising Cane’s Chicken Fingers,184.0,3.3,"['Fast Food', 'Chicken Wings']",/biz/raising-cane-s-chicken-fingers-tucson-2,53.0
+Tucson,Two Hands Corn Dogs,178.0,3.5,"['Korean', 'Hot Dogs']",/biz/two-hands-corn-dogs-tucson,59.0
+Tucson,La Yaquesita Mexican Cuisine,197.0,4.8,"['Food Trucks', 'Tacos', 'Hot Dogs']",/biz/la-yaquesita-mexican-cuisine-no-title,37.0
+Walnut Creek,Esin Restaurant & Bar,43.0,4.3,"['American (New)', 'Desserts']",/biz/esin-restaurant-and-bar-danville,1200.0
+Walnut Creek,Jacks Restaurant & Bar,8.0,3.9,"['American (Traditional)', 'Breakfast & Brunch', 'Cocktail Bars']",/biz/jacks-restaurant-and-bar-pleasant-hill,2100.0
+Walnut Creek,Ohgane,16.0,4.1,"['Korean', 'Barbeque']",/biz/ohgane-concord-2,1600.0
+Walnut Creek,Rooftop,14.0,3.6,['American (New)'],/biz/rooftop-walnut-creek,1700.0
+Walnut Creek,San Francisco Creamery,31.0,3.9,"['Desserts', 'Ice Cream & Frozen Yogurt', 'American (Traditional)']",/biz/san-francisco-creamery-walnut-creek,1300.0
+Walnut Creek,Wild Ginger,84.0,4.3,"['Chinese', 'Noodles', 'Burgers']",/biz/wild-ginger-alameda,630.0
+Walnut Creek,Sargam Indian Cuisine,79.0,3.9,"['Indian', 'Buffets', 'Breakfast & Brunch']",/biz/sargam-indian-cuisine-walnut-creek,676.0
+Walnut Creek,Kinder’s Meats Deli BBQ,90.0,3.8,"['Barbeque', 'Delis', 'Sandwiches']",/biz/kinders-meats-deli-bbq-walnut-creek-3,596.0
+Walnut Creek,Galpao Gaucho Brazilian Steakhouse,61.0,4.6,"['Steakhouses', 'Brazilian']",/biz/galpao-gaucho-brazilian-steakhouse-walnut-creek,908.0
+Walnut Creek,Stix Eatery,111.0,4.2,"['Salad', 'Noodles', 'Soup']",/biz/stix-eatery-concord,454.0
+Walnut Creek,Peony Garden,127.0,3.7,"['Dim Sum', 'Cantonese']",/biz/peony-garden-walnut-creek,386.0
+Walnut Creek,Oke Poke,122.0,4.4,"['Poke', 'Seafood', 'Hawaiian']",/biz/oke-poke-walnut-creek-2,414.0
+Walnut Creek,Bardo Lounge & Supper Club,153.0,4.3,"['Lounges', 'American (New)', 'Cocktail Bars']",/biz/bardo-lounge-and-supper-club-oakland,213.0
+Walnut Creek,Mama’s Lumpia,177.0,3.9,['Filipino'],/biz/mamas-lumpia-pacheco,145.0
+Walnut Creek,Lou’s Chicken Shop,207.0,4.6,"['Chicken Shop', 'Asian Fusion', 'Sandwiches']",/biz/lous-chicken-shop-moraga-3,60.0
+"Washington, DC",Agora DC,31.0,4.0,"['Mediterranean', 'Turkish', 'Vegetarian']",/biz/agora-dc-washington-8,1500.0
+"Washington, DC",Toki Underground,13.0,4.1,"['Ramen', 'Cocktail Bars', 'Izakaya']",/biz/toki-underground-washington,2500.0
+"Washington, DC",Keren Restaurant,40.0,4.6,"['Coffee & Tea', 'Eritrean', 'Sandwiches']",/biz/keren-restaurant-washington,1200.0
+"Washington, DC",il Canale,6.0,4.3,"['Italian', 'Pizza', 'Wine Bars']",/biz/il-canale-washington-2,4400.0
+"Washington, DC",Filomena Ristorante,10.0,4.2,"['Italian', 'Wine Bars']",/biz/filomena-ristorante-washington,3300.0
+"Washington, DC",Lavagna,73.0,4.0,['Italian'],/biz/lavagna-washington,755.0
+"Washington, DC",Lupo Verde,57.0,3.8,"['Italian', 'Salad', 'Wine Bars']",/biz/lupo-verde-washington,905.0
+"Washington, DC",Pearl Dive Oyster Palace,50.0,4.2,"['Seafood', 'Breakfast & Brunch']",/biz/pearl-dive-oyster-palace-washington,1000.0
+"Washington, DC",Rumi’s Kitchen,89.0,4.5,['Persian/Iranian'],/biz/rumi-s-kitchen-washington,545.0
+"Washington, DC",Mercy Me,125.0,3.8,"['American (New)', 'Cafes', 'Bars']",/biz/mercy-me-washington-2,325.0
+"Washington, DC",Little Coco’s,131.0,4.3,"['Italian', 'Pizza', 'Breakfast & Brunch']",/biz/little-cocos-washington,296.0
+"Washington, DC",Off The Record,114.0,4.1,"['Bars', 'American (New)']",/biz/off-the-record-washington,363.0
+"Washington, DC",Duck Duck Goose,176.0,4.1,"['French', 'Cocktail Bars', 'American (New)']",/biz/duck-duck-goose-washington-2,135.0
+"Washington, DC",Prost,180.0,4.2,"['German', 'Breakfast & Brunch', 'Sandwiches']",/biz/prost-washington-2,131.0
+"Washington, DC",Busboys and Poets - Bookstore,237.0,4.5,"['American (New)', 'Vegan', 'Breakfast & Brunch']",/biz/busboys-and-poets-bookstore-washington,8.0

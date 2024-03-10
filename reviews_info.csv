@@ -1,0 +1,750 @@
+city,restaurant,review_count,fake_review_count,percent
+Alameda,Jong Ga House,2325,125,0.05102040816326531
+Alameda,Brenda’s Oakland,1064,41,0.037104072398190045
+Alameda,Homeroom,6486,821,0.11235801286437662
+Alameda,Yojimbo,1673,66,0.03795284646348476
+Alameda,Quinn’s Lighthouse,1030,67,0.061075660893345485
+Alameda,Eve’s Waterfront,466,24,0.04897959183673469
+Alameda,East End,570,48,0.07766990291262135
+Alameda,FOB Kitchen,524,8,0.015037593984962405
+Alameda,Cholita Linda,492,29,0.05566218809980806
+Alameda,Pucquio,336,22,0.061452513966480445
+Alameda,Sobre Mesa,279,10,0.03460207612456748
+Alameda,Cinema Grill,251,14,0.052830188679245285
+Alameda,Aman Cafe,83,4,0.04597701149425287
+Alameda,Sachi Sushi,75,0,0.0
+Alameda,LA VIDA FISH & CHIPS,35,0,0.0
+Alexandria,Cheesetique,805,62,0.07151095732410612
+Alexandria,Momo Sushi & Cafe,1143,79,0.06464811783960721
+Alexandria,Busboys and Poets - Shirlington,1885,174,0.08450704225352113
+Alexandria,Mike’s American,2782,348,0.11118210862619808
+Alexandria,Fontaine,855,37,0.04147982062780269
+Alexandria,Rocklands Barbeque and Grilling Company - Alexandria,425,24,0.053452115812917596
+Alexandria,Faccia Luna,378,38,0.09134615384615384
+Alexandria,Haute Dog and Fries,712,44,0.0582010582010582
+Alexandria,Northside 10,392,19,0.046228710462287104
+Alexandria,The Best Sandwich Place,276,114,0.2923076923076923
+Alexandria,The Club Burgers & Sandwiches,270,16,0.055944055944055944
+Alexandria,Gordon Ramsay Fish & Chips,319,23,0.06725146198830409
+Alexandria,KitchenCray - Alexandria,175,9,0.04891304347826087
+Alexandria,Gyu San Japanese BBQ,123,68,0.35602094240837695
+Alexandria,Dave’s Hot Chicken,34,1,0.02857142857142857
+Allston,Giulia,547,51,0.08528428093645485
+Allston,FuGaKyu Japanese Cuisine - Brookline,1348,140,0.09408602150537634
+Allston,Luke’s Lobster Back Bay,2042,147,0.06715395157606213
+Allston,Kaju Tofu House,751,32,0.04086845466155811
+Allston,Earls Kitchen + Bar,1432,203,0.12415902140672783
+Allston,Brothers & Sisters Co Coffeehouse + Cafe,304,25,0.07598784194528875
+Allston,Waypoint,472,13,0.026804123711340205
+Allston,T Anthony’s Restaurant,323,59,0.1544502617801047
+Allston,Pammy’s,418,40,0.08733624454148471
+Allston,Mei Mei Street Kitchen,198,10,0.04807692307692308
+Allston,Habanero Mexican Grill,237,47,0.16549295774647887
+Allston,Surya Indian Kitchen,177,21,0.10606060606060606
+Allston,Gigi,68,4,0.05555555555555555
+Allston,Garrison House,49,1,0.02
+Allston,El Mondonguito,15,2,0.11764705882352941
+Ann Arbor,Tmaz Taqueria,451,50,0.0998003992015968
+Ann Arbor,Black Pearl Ann Arbor,357,35,0.08928571428571429
+Ann Arbor,Blue Tractor BBQ & Brewery,608,65,0.09658246656760773
+Ann Arbor,Pacific Rim,526,49,0.08521739130434783
+Ann Arbor,Bigalora Wood Fired Cucina,424,29,0.0640176600441501
+Ann Arbor,Paesano Restaurant & Wine Bar,280,24,0.07894736842105263
+Ann Arbor,Sushi Town,276,28,0.09210526315789473
+Ann Arbor,Dominick’s,230,22,0.0873015873015873
+Ann Arbor,Biercamp,240,15,0.058823529411764705
+Ann Arbor,Mac’s Acadian Seafood Shack,159,16,0.09142857142857143
+Ann Arbor,Ginger Deli,167,8,0.045714285714285714
+Ann Arbor,Bobcat Bonnie’s,143,12,0.07741935483870968
+Ann Arbor,Cantina,100,7,0.06542056074766354
+Ann Arbor,First Watch,64,5,0.07246376811594203
+Ann Arbor,Unicorn Market,3,2,0.4
+Arlington,Lost Dog Cafe,829,90,0.09793253536452666
+Arlington,TNR Cafe,787,51,0.060859188544152745
+Arlington,Le Diplomate,4952,524,0.09569028487947406
+Arlington,Founding Farmers - Washington,16476,2406,0.12742294248490627
+Arlington,Mala Tang,710,69,0.08857509627727857
+Arlington,La Famosa,367,17,0.044270833333333336
+Arlington,Skydome Restaurant,390,28,0.06698564593301436
+Arlington,Mezeh - Crystal City,506,31,0.05772811918063315
+Arlington,Tortas Y Tacos La Chiquita,683,53,0.07201086956521739
+Arlington,Taco Ssam,296,13,0.042071197411003236
+Arlington,Taco Rock,307,21,0.06402439024390244
+Arlington,St James - Modern Caribbean,221,6,0.02643171806167401
+Arlington,Troy’s Italian Kitchen,173,14,0.0748663101604278
+Arlington,The Simple Greek,139,19,0.12025316455696203
+Arlington,Rosa Mexicano,53,4,0.07017543859649122
+Austin,Fonda San Miguel,1145,105,0.084
+Austin,Koriente,1884,141,0.06962962962962962
+Austin,Culinary Dropout,1844,105,0.053873781426372495
+Austin,Phoebe’s Diner,1697,72,0.04070096099491238
+Austin,888 Pan Asian Restaurant,2048,186,0.08325872873769025
+Austin,Old Thousand,469,19,0.0389344262295082
+Austin,Troy ATX,572,50,0.08038585209003216
+Austin,Juniper,668,37,0.0524822695035461
+Austin,Nervous Charlie’s Bagels,570,16,0.027303754266211604
+Austin,Tiny Boxwoods,324,8,0.024096385542168676
+Austin,Devil May Care,180,11,0.05759162303664921
+Austin,De Nada Cantina,342,13,0.036619718309859155
+Austin,Rice Ball,106,3,0.027522935779816515
+Austin,Dean’s Italian Steakhouse - Austin,173,4,0.022598870056497175
+Austin,Bat City Pies,26,15,0.36585365853658536
+Bloomington,Juannita’s,189,30,0.136986301369863
+Bloomington,The Village Deli,239,19,0.07364341085271318
+Bloomington,Mother Bear’s Pizza West,175,15,0.07894736842105263
+Bloomington,The Owlery Restaurant,340,44,0.11458333333333333
+Bloomington,My Thai Cafe & Sushi Bar - West Side,163,24,0.12834224598930483
+Bloomington,Olive Garden Italian Restaurant,78,9,0.10344827586206896
+Bloomington,Wings Xtreme U,87,13,0.13
+Bloomington,Peach Garden,73,14,0.16091954022988506
+Bloomington,Feta Kitchen + Cafe,92,9,0.0891089108910891
+Bloomington,El Ranchero,53,7,0.11666666666666667
+Bloomington,Baldy’s Pizza,46,6,0.11538461538461539
+Bloomington,Bloomingfoods,43,14,0.24561403508771928
+Bloomington,Papa Johns Pizza,31,3,0.08823529411764706
+Bloomington,Freddy’s Frozen Custard & Steakburgers,34,0,0.0
+Bloomington,Village Inn Family Restaurant,2,0,0.0
+Brighton,Frank Pepe Pizzeria Napoletana,456,33,0.06748466257668712
+Brighton,Giulia,547,51,0.08528428093645485
+Brighton,Seasons 52,440,24,0.05172413793103448
+Brighton,The Abbey,531,54,0.09230769230769231
+Brighton,The Avenue,429,46,0.0968421052631579
+Brighton,Mala Restaurant,334,24,0.0670391061452514
+Brighton,Fin’s Sushi and Grill,314,30,0.0872093023255814
+Brighton,Lee’s Burger Place,363,40,0.09925558312655088
+Brighton,Brighton Cafe,225,14,0.058577405857740586
+Brighton,Isshindo Ramen,212,4,0.018518518518518517
+Brighton,Prairie Fire,187,15,0.07425742574257425
+Brighton,Xiang Yu China Bistro,136,5,0.03546099290780142
+Brighton,Flat Breads,67,17,0.20238095238095238
+Brighton,Parlour,73,7,0.0875
+Brighton,Beef and Turkey,1,1,0.5
+Brookline,Jim’s Deli,722,85,0.10532837670384139
+Brookline,Buttermilk & Bourbon,1054,33,0.03035878564857406
+Brookline,Boston Sail Loft,1376,61,0.04244954766875435
+Brookline,Carmelina’s,3428,323,0.08611037056784858
+Brookline,Earls Kitchen + Bar,1432,203,0.12415902140672783
+Brookline,The Squealing Pig,435,34,0.07249466950959488
+Brookline,Oppa Sushi,364,45,0.1100244498777506
+Brookline,The Mission Bar & Grill,379,32,0.07785888077858881
+Brookline,Burro Bar Brookline,284,12,0.04054054054054054
+Brookline,Moldova Restaurant,236,34,0.1259259259259259
+Brookline,Sultana’s Bakery & Cafe,109,13,0.10655737704918032
+Brookline,Hamilton Restaurant & Bar,167,14,0.07734806629834254
+Brookline,Bon Me - Longwood Medical Area,55,3,0.05172413793103448
+Brookline,Wicked Craft,102,6,0.05555555555555555
+Brookline,Maliss Thai Restaurant,10,0,0.0
+Cincinnati,Nicholson’s,511,45,0.08093525179856115
+Cincinnati,Hofbrauhaus Newport,925,62,0.06281661600810537
+Cincinnati,Swampwater Grill,386,24,0.05853658536585366
+Cincinnati,Abigail Street,481,26,0.05128205128205128
+Cincinnati,Strong’s Brick Oven Pizzeria,455,34,0.06952965235173825
+Cincinnati,Tea ‘n’ Bowl,272,22,0.07482993197278912
+Cincinnati,Bouquet Restaurant,350,18,0.04891304347826087
+Cincinnati,Lucius Q,334,25,0.06963788300835655
+Cincinnati,Tickle Pickle Northside,313,45,0.12569832402234637
+Cincinnati,Nation Westwood,140,4,0.027777777777777776
+Cincinnati,Bouchards,78,5,0.060240963855421686
+Cincinnati,Enson Harbor,94,10,0.09615384615384616
+Cincinnati,Darou Salam,49,0,0.0
+Cincinnati,Dunlap Cafe,57,4,0.06557377049180328
+Cincinnati,Cousins Maine Lobster - Cincinnati,6,0,0.0
+Cleveland,Punch Bowl Social Cleveland,566,247,0.3038130381303813
+Cleveland,Seoul Garden,407,22,0.05128205128205128
+Cleveland,Pizza 216,364,43,0.10565110565110565
+Cleveland,L’Albatros,900,108,0.10714285714285714
+Cleveland,Superior Pho,761,60,0.0730816077953715
+Cleveland,Tandul,240,20,0.07692307692307693
+Cleveland,Maxi’s,249,22,0.08118081180811808
+Cleveland,Phusion Cafe,200,18,0.08256880733944955
+Cleveland,Zhug,212,10,0.04504504504504504
+Cleveland,Morton’s The Steakhouse,173,20,0.10362694300518134
+Cleveland,Tacologist Tacos-Tequila-Margaritas,170,42,0.19811320754716982
+Cleveland,Kenko,172,7,0.03910614525139665
+Cleveland,Paradise Ranch Tequila Bar And Grill,41,5,0.10869565217391304
+Cleveland,Whiskey Island Still & Eatery,41,6,0.1276595744680851
+Cleveland,Tripi,8,0,0.0
+Daly City,Perilla,1568,77,0.04680851063829787
+Daly City,Mission Rock Resort,1719,78,0.04340567612687813
+Daly City,Lavash,1652,142,0.07915273132664437
+Daly City,7 Mile House,1863,153,0.07589285714285714
+Daly City,Outerlands,2444,143,0.05527638190954774
+Daly City,3rd Cousin,446,25,0.05307855626326964
+Daly City,Marcella’s Lasagneria,515,44,0.07871198568872988
+Daly City,LaLe,628,33,0.049924357034795766
+Daly City,Bottega,920,91,0.09000989119683482
+Daly City,Saigon BBQ Noodle House,252,5,0.019455252918287938
+Daly City,Los Metates,353,32,0.08311688311688312
+Daly City,Redeye Grill,259,20,0.07168458781362007
+Daly City,Krispy Krunchy Chicken,154,7,0.043478260869565216
+Daly City,Mr. Digby’s,156,4,0.025
+Daly City,The Anecdote,30,2,0.0625
+Detroit,Seva Detroit,553,39,0.06587837837837837
+Detroit,Slows Bar BQ,2285,345,0.1311787072243346
+Detroit,Sweetwater Tavern,662,67,0.09190672153635117
+Detroit,SheWolf Pastificio & Bar,469,34,0.06759443339960239
+Detroit,Joe Muer Seafood,794,82,0.09360730593607305
+Detroit,M Cantina,431,40,0.08492569002123142
+Detroit,The London Chop House,373,57,0.1325581395348837
+Detroit,Cannelle Matt Knio,243,11,0.04330708661417323
+Detroit,Olin Bar & Kitchen,203,11,0.0514018691588785
+Detroit,Maine Street Restaurant,83,14,0.14432989690721648
+Detroit,Prism,121,8,0.06201550387596899
+Detroit,The Potato Place,135,12,0.08163265306122448
+Detroit,Ukrainian Restaurant,46,11,0.19298245614035087
+Detroit,Metropolitan Bar And Kitchen,24,1,0.04
+Detroit,BITE Bar & Grill,2,0,0.0
+Dublin,Gotta Eatta Pita,991,62,0.05887939221272555
+Dublin,Kura Revolving Sushi Bar,919,39,0.0407098121085595
+Dublin,Denica’s Real Food Kitchen,1318,40,0.029455081001472753
+Dublin,88 Bao Bao,894,32,0.03455723542116631
+Dublin,Sauced BBQ & Spirits - Livermore,2566,251,0.08910188143414981
+Dublin,Tri Valley Bistro,467,26,0.05273833671399594
+Dublin,Hazy Barbecue,543,24,0.042328042328042326
+Dublin,The Sister House,718,45,0.05897771952817824
+Dublin,Range Life,473,21,0.04251012145748988
+Dublin,Torarenbou Sushi Bistro,254,12,0.045112781954887216
+Dublin,Rahma Mediterranean​ Grill,187,12,0.06030150753768844
+Dublin,11th Tiger,382,27,0.06601466992665037
+Dublin,DareDevil Dogs,111,4,0.034782608695652174
+Dublin,Azul,132,3,0.022222222222222223
+Dublin,Northern Curry,35,5,0.125
+Durham,Uncle Julio’s,381,31,0.07524271844660194
+Durham,Burger Bach,467,28,0.05656565656565657
+Durham,Firebirds Wood Fired Grill,402,23,0.05411764705882353
+Durham,Juju Asian Tapas + Bar,641,41,0.060117302052785926
+Durham,Tobacco Road Sports Café,584,48,0.0759493670886076
+Durham,Happy + Hale,316,11,0.03363914373088685
+Durham,Twisted Noodles,256,19,0.06909090909090909
+Durham,Ted’s Montana Grill - Renaissance Center,347,24,0.0646900269541779
+Durham,"Press Coffee, Crepes & Cocktails",246,4,0.016
+Durham,Boxcar Bar + Arcade,129,6,0.044444444444444446
+Durham,Flying Biscuit Cafe - Brier Creek,132,9,0.06382978723404255
+Durham,First Watch,166,33,0.1658291457286432
+Durham,The Crabby Patty,40,4,0.09090909090909091
+Durham,Lawrence Barbecue,106,4,0.03636363636363636
+Durham,Hayti Collective Kitchen & Cocktails,6,0,0.0
+Emeryville,Kirala Restaurant,1852,167,0.08271421495789995
+Emeryville,Angeline’s Louisiana Kitchen,4856,411,0.07803303588380482
+Emeryville,Cafe M,1918,94,0.04671968190854871
+Emeryville,Moo Bong Ri Korean Restaurant,1113,72,0.060759493670886074
+Emeryville,Shandong Restaurant,3669,313,0.07860371672526369
+Emeryville,Shawarmaji,553,22,0.03826086956521739
+Emeryville,Touch of Soul,645,42,0.0611353711790393
+Emeryville,Los Cantaros Taqueria,643,50,0.07215007215007214
+Emeryville,Best Coast Burritos,535,22,0.03949730700179533
+Emeryville,Kowbird,324,19,0.05539358600583091
+Emeryville,Yimm,346,4,0.011428571428571429
+Emeryville,Co Nam,285,8,0.027303754266211604
+Emeryville,Ramen 101,83,5,0.056818181818181816
+Emeryville,Todos,153,2,0.012903225806451613
+Emeryville,Tik Dak,43,1,0.022727272727272728
+Flushing,Bunna Cafe,804,74,0.08428246013667426
+Flushing,The Bonnie,804,55,0.0640279394644936
+Flushing,Loukoumi Taverna,543,75,0.12135922330097088
+Flushing,Forest Hills Station House,1317,116,0.08094905792044661
+Flushing,Ginger and Lemongrass,984,38,0.03718199608610567
+Flushing,Bobby Van’s Grill,480,23,0.04572564612326044
+Flushing,Buccaneer Diner,345,42,0.10852713178294573
+Flushing,Kissfish,248,9,0.03501945525291829
+Flushing,While In Kathmandu,250,17,0.06367041198501873
+Flushing,Fu Yuan,226,7,0.030042918454935622
+Flushing,Leo’s Latticini Mama’s,167,6,0.03468208092485549
+Flushing,John Brown BBQ,171,4,0.022857142857142857
+Flushing,Mama Schnitzel,68,12,0.15
+Flushing,Nneji,57,3,0.05
+Flushing,Yoku,7,1,0.125
+Foster City,Shalizaar,1258,171,0.11966410076976906
+Foster City,Jack’s Prime Burgers & Shakes,1783,144,0.07472755578619616
+Foster City,Thai Tamarind Restaurant,525,40,0.07079646017699115
+Foster City,Apple Fritter,1636,70,0.041031652989449004
+Foster City,The Cheesecake Factory,1682,149,0.08137629710540688
+Foster City,Daiki Sushi,375,25,0.0625
+Foster City,Amigos Grill Cocina Mexicana,299,29,0.08841463414634146
+Foster City,Los Moreno Taqueria,325,30,0.08450704225352113
+Foster City,Sandwich Monkey,315,28,0.08163265306122448
+Foster City,Spicy Empire,238,24,0.0916030534351145
+Foster City,Otoko Sushi,188,20,0.09615384615384616
+Foster City,Marias Restaurant,93,7,0.07
+Foster City,Sarku Japan,75,3,0.038461538461538464
+Foster City,Quickly,92,5,0.05154639175257732
+Foster City,Bites of Brazil,1,0,0.0
+Honolulu,Shabuya,2234,183,0.07571369466280513
+Honolulu,Moku Kitchen,2220,95,0.04103671706263499
+Honolulu,53 By The Sea,1340,57,0.0408017179670723
+Honolulu,Paia Fish Market Waikiki,2084,88,0.040515653775322284
+Honolulu,Side Street Inn,2025,86,0.04073898626243486
+Honolulu,Hawaiian Island Cafe,621,31,0.04754601226993865
+Honolulu,Moke’s Bread and Breakfast - Kaimuki,724,19,0.02557200538358008
+Honolulu,100 Sails Restaurant & Bar,966,22,0.022267206477732792
+Honolulu,Maguro Brothers Hawaii - Waikiki - Temp. CLOSED,881,16,0.017837235228539576
+Honolulu,Spice Up House of Indian Cuisine,369,17,0.04404145077720207
+Honolulu,Mahaloha Burger- Waikiki,552,27,0.046632124352331605
+Honolulu,Guieb Cafe,618,19,0.029827315541601257
+Honolulu,Izakaya Danji Honolulu,132,1,0.007518796992481203
+Honolulu,Repetti’s Pizza and Provisions,160,7,0.041916167664670656
+Honolulu,Rock N Rolls,57,1,0.017241379310344827
+Houston,The Rice Box,928,42,0.04329896907216495
+Houston,Urban Eats,1176,75,0.05995203836930456
+Houston,Mezza Grille,715,64,0.0821566110397946
+Houston,Adair Kitchen,1026,64,0.05871559633027523
+Houston,Roost,606,60,0.09009009009009009
+Houston,TJ Birria Y Mas,401,25,0.05868544600938967
+Houston,Flying Biscuit Café - Memorial City,495,39,0.07303370786516854
+Houston,Tiger Noodle House,607,34,0.0530421216848674
+Houston,Marmo,444,19,0.04103671706263499
+Houston,Trill Burgers,302,13,0.04126984126984127
+Houston,Uchiko,167,5,0.029069767441860465
+Houston,Gatlin’s Fins & Feathers,172,8,0.044444444444444446
+Houston,Shandy’s,87,6,0.06451612903225806
+Houston,Cosmo Eatery - Galleria,66,6,0.08333333333333333
+Houston,Stick Talk Cajun Hibachi,14,1,0.06666666666666667
+Iowa City,Mellow Mushroom Coralville,208,48,0.1875
+Iowa City,Marquee Pizzeria,160,14,0.08045977011494253
+Iowa City,Reunion Brewery,182,38,0.17272727272727273
+Iowa City,Baroncini,181,20,0.09950248756218906
+Iowa City,Backpocket Brewing,178,16,0.08247422680412371
+Iowa City,IHOP,83,7,0.07777777777777778
+Iowa City,Falbo Bros. Pizzeria,70,12,0.14634146341463414
+Iowa City,Pancheros Mexican Grill,89,17,0.16037735849056603
+Iowa City,Soseki Café,85,10,0.10526315789473684
+Iowa City,El Dorado Mexican Restaurant,50,8,0.13793103448275862
+Iowa City,Bruegger’s Bagels and Jamba Juice,49,5,0.09259259259259259
+Iowa City,Taco Bell,51,8,0.13559322033898305
+Iowa City,Domino’s Pizza,23,8,0.25806451612903225
+Iowa City,Papa Johns Pizza,11,3,0.21428571428571427
+Iowa City,Sno Biz of Iowa City REAL Shave Ice Made Right,4,1,0.2
+La Jolla,Regents Pizzeria,1769,95,0.050965665236051505
+La Jolla,JRDN Restaurant,1608,101,0.0590988882387361
+La Jolla,Dirty Birds,1308,104,0.07365439093484419
+La Jolla,Sugar and Scribe,2321,149,0.06032388663967611
+La Jolla,Homestyle Hawaiian,2062,138,0.06272727272727273
+La Jolla,Trilogy Sanctuary,934,33,0.03412616339193381
+La Jolla,Don Carlos Taco Shop,785,71,0.08294392523364486
+La Jolla,BJ’s Restaurant & Brewhouse,646,30,0.04437869822485207
+La Jolla,Turmeric Thai Kitchen,694,42,0.057065217391304345
+La Jolla,Single Fin Surf Grill,571,36,0.05930807248764415
+La Jolla,Cusp Dining & Drinks - Temp. CLOSED,434,21,0.046153846153846156
+La Jolla,Better Buzz Coffee La Jolla,399,11,0.026829268292682926
+La Jolla,Armonía Kitchen,187,8,0.041025641025641026
+La Jolla,Cliff Hanger Cafe,159,4,0.024539877300613498
+La Jolla,Splash Cafe,32,2,0.058823529411764705
+Long Beach,Busy Bee Market,1862,272,0.1274601686972821
+Long Beach,Congregation Ale House,1647,113,0.06420454545454546
+Long Beach,Mama’s Comfort Food & Cocktails,2983,286,0.08748852860201897
+Long Beach,Nick’s on 2nd,3041,259,0.07848484848484849
+Long Beach,The Nest - A Breakfast Joint,4165,319,0.07114183764495986
+Long Beach,Tasty Food To Go,710,40,0.05333333333333334
+Long Beach,Georgia’s Restaurant,741,32,0.04139715394566624
+Long Beach,Jay Bird’s Chicken,881,37,0.04030501089324619
+Long Beach,Uncle Fung Borneo Eatery,872,42,0.045951859956236324
+Long Beach,Yang Chow 2.0,342,13,0.036619718309859155
+Long Beach,The Firkin Pub & Grill,285,8,0.027303754266211604
+Long Beach,Heirloom a Modern Farmhouse,388,13,0.032418952618453865
+Long Beach,Nguyen’s Kitchen,264,36,0.12
+Long Beach,Colossus,219,6,0.02666666666666667
+Long Beach,Proudly Serving,37,1,0.02631578947368421
+Los Angeles,Poppy + Rose,3232,187,0.054694355074583215
+Los Angeles,Bavel,2376,147,0.05826397146254459
+Los Angeles,Langer’s Delicatessen,4454,597,0.11819441694713918
+Los Angeles,Bottega Louie,18556,4389,0.1912835040313794
+Los Angeles,Tatsu Ramen,4121,355,0.07931188561215372
+Los Angeles,My Two Cents,921,111,0.10755813953488372
+Los Angeles,Egg Tuck,958,36,0.03621730382293763
+Los Angeles,Seong Buk Dong,1285,110,0.07885304659498207
+Los Angeles,Wood,1090,96,0.08094435075885328
+Los Angeles,MUN Korean Steakhouse,465,27,0.054878048780487805
+Los Angeles,Loupiotte Kitchen,344,18,0.049723756906077346
+Los Angeles,Found Oyster,332,9,0.026392961876832845
+Los Angeles,The Phoenix,310,45,0.1267605633802817
+Los Angeles,PZK BBQ,181,19,0.095
+Los Angeles,The Local Moco,29,2,0.06451612903225806
+Millbrae,Isla Restaurant,890,54,0.057203389830508475
+Millbrae,New Asian Pearl Peninsula,749,47,0.059045226130653265
+Millbrae,BJ’s Restaurant & Brewhouse,2726,196,0.06707734428473648
+Millbrae,Mokutanya,2296,138,0.056696795398520954
+Millbrae,Broadway Grill,701,111,0.13669950738916256
+Millbrae,Tomokazu Japanese Cuisine,530,29,0.0518783542039356
+Millbrae,Hashes & Brews,538,23,0.040998217468805706
+Millbrae,Taqueria Mi Durango,518,20,0.03717472118959108
+Millbrae,Sugandh Indian Restaurant & Bar,517,41,0.07347670250896057
+Millbrae,37 North,188,9,0.04568527918781726
+Millbrae,Ninja Sushi & Tofu,229,17,0.06910569105691057
+Millbrae,Big Joe’s - San Bruno,219,18,0.0759493670886076
+Millbrae,Bun Mee,97,3,0.03
+Millbrae,Masala Desi Cafe - Burlingame,164,6,0.03529411764705882
+Millbrae,文哥早餐,5,0,0.0
+Mountain View,Alice’s Restaurant,1417,85,0.05659121171770972
+Mountain View,Oren’s Hummus,1004,36,0.03461538461538462
+Mountain View,Kabul Afghan Cuisine,1327,161,0.1081989247311828
+Mountain View,Sushi Tomi,2507,219,0.08033749082905356
+Mountain View,Back A Yard Caribbean American Grill,2563,153,0.05633284241531664
+Mountain View,Taro San Japanese Noodle Bar,977,40,0.03933136676499508
+Mountain View,Sifu Wong Kitchen,841,26,0.029988465974625143
+Mountain View,Flea Street,707,56,0.07339449541284404
+Mountain View,Sweet Maple,859,21,0.023863636363636365
+Mountain View,Shugetsu,244,5,0.020080321285140562
+Mountain View,The Waffle Roost,285,11,0.037162162162162164
+Mountain View,TBread,255,4,0.015444015444015444
+Mountain View,Local Kitchens,75,4,0.05063291139240506
+Mountain View,Lima Ruby Peruvian,103,9,0.08035714285714286
+Mountain View,Cloud Bistro,17,0,0.0
+Napa,The Red Grape,864,47,0.05159165751920966
+Napa,Fumé Bistro & Bar,1110,93,0.0773067331670823
+Napa,El Dorado Kitchen,1442,87,0.05689993459777633
+Napa,RH Yountville Restaurant,883,26,0.028602860286028604
+Napa,El Molino Central,1241,63,0.04831288343558282
+Napa,Papa Joe’s Pizza,488,72,0.12857142857142856
+Napa,B&V Whiskey Bar & Grille,563,44,0.07248764415156507
+Napa,South Kelly Grill,389,39,0.0911214953271028
+Napa,Addendum,685,17,0.024216524216524215
+Napa,Pho Huong Viet Noodle House,288,18,0.058823529411764705
+Napa,Sonoma Eats,157,20,0.11299435028248588
+Napa,El Rancho Grande,151,9,0.05625
+Napa,Bank Cafe and Bar,129,5,0.03731343283582089
+Napa,Fivetown Grocery,52,2,0.037037037037037035
+Napa,Kob’s Kitchen,35,1,0.027777777777777776
+Nashville,Kid Rock’s Big Honky Tonk and Rock n’ Roll Steakhouse,783,48,0.05776173285198556
+Nashville,Robert’s Western World,952,75,0.0730282375851996
+Nashville,Two Ten Jack,838,50,0.05630630630630631
+Nashville,Puckett’s Restaurant - Nashville,3225,264,0.07566638005159071
+Nashville,417 Union,1083,67,0.058260869565217394
+Nashville,True Food Kitchen,380,30,0.07317073170731707
+Nashville,Epice,471,29,0.058
+Nashville,Emmy Squared Pizza - Gulch,393,21,0.050724637681159424
+Nashville,Bourbon Steak by Michael Mina,721,92,0.11316113161131611
+Nashville,Parlor Doughnuts,229,6,0.02553191489361702
+Nashville,Nicky’s Coal Fired,293,18,0.05787781350482315
+Nashville,TailGate Brewery Music Row,304,38,0.1111111111111111
+Nashville,Tempo Nashville,81,2,0.024096385542168676
+Nashville,400 Degrees,122,3,0.024
+Nashville,Pelato,90,11,0.10891089108910891
+Newark.CA,Ettan,1185,43,0.03501628664495114
+Newark.CA,Telefèric Barcelona -Palo Alto,1622,79,0.04644326866549089
+Newark.CA,Pacific PourHouse,1129,72,0.05995004163197336
+Newark.CA,Le Moose Crepe Cafe,1580,111,0.06564163217031342
+Newark.CA,Ray’s Crab Shack,1412,77,0.051712558764271326
+Newark.CA,Mangal Turkish Grill,439,42,0.08731808731808732
+Newark.CA,Saffron Grill,445,36,0.07484407484407485
+Newark.CA,Bird Dog,657,35,0.05057803468208093
+Newark.CA,Sojo Ramen,426,7,0.016166281755196306
+Newark.CA,Katalina’s Island Grill,181,14,0.07179487179487179
+Newark.CA,Joyful Dim Sum Bistro,193,3,0.015306122448979591
+Newark.CA,Sushi Ken,240,12,0.047619047619047616
+Newark.CA,Street Food Vibes - Indian Cafe,108,7,0.06086956521739131
+Newark.CA,Il Fornaio,121,4,0.032
+Newark.CA,+PLUS,13,2,0.13333333333333333
+Orange County,Javier’s - Crystal Cove,3713,409,0.09922367782629792
+Orange County,Pom & Olive,1653,108,0.06132879045996593
+Orange County,HONDA-YA Tustin,3093,223,0.0672496984318456
+Orange County,CUCINA enoteca Irvine,2908,237,0.0753577106518283
+Orange County,Bear Flag Fish,1381,81,0.05540355677154583
+Orange County,Eureka! - Irvine,1196,72,0.056782334384858045
+Orange County,O Fine Japanese Cuisine,1300,105,0.07473309608540925
+Orange County,American Grub,1289,146,0.10174216027874565
+Orange County,Hako,966,42,0.041666666666666664
+Orange County,Bacchus Bar & Bistro,412,47,0.10239651416122005
+Orange County,Tai Chi Cuisine,294,26,0.08125
+Orange County,Curry Up Now,449,27,0.05672268907563025
+Orange County,Angry Chickz,106,37,0.25874125874125875
+Orange County,Hai Master Kitchen,287,23,0.07419354838709677
+Orange County,Aria Kitchen,121,4,0.032
+Park La Brea,All About the Bread,1234,123,0.09064112011790715
+Park La Brea,Swingers Diner,1300,128,0.0896358543417367
+Park La Brea,Pizzeria Mozza,4608,475,0.0934487507377533
+Park La Brea,Marmalade Cafe,2723,580,0.1755979412655162
+Park La Brea,The Cheesecake Factory,1905,261,0.12049861495844875
+Park La Brea,Lalibela Ethiopian Restaurant,546,43,0.0730050933786078
+Park La Brea,Blackbird Pizza Shop,506,30,0.055970149253731345
+Park La Brea,COD Restaurant,942,77,0.07556427870461237
+Park La Brea,Della Terra Restaurant,869,76,0.08042328042328042
+Park La Brea,Uncle Paulie’s Deli,356,20,0.05319148936170213
+Park La Brea,HiHo Cheeseburger | Mid Wilshire,428,25,0.05518763796909492
+Park La Brea,Trejo’s Tacos - Farmers Market,240,10,0.04
+Park La Brea,Umbrella Taco,91,6,0.061855670103092786
+Park La Brea,Cafe Joanne,145,7,0.046052631578947366
+Park La Brea,Island Boy Cafe,25,2,0.07407407407407407
+Philadelphia,Honey’s Sit-N-Eat,1466,112,0.07097591888466413
+Philadelphia,Dutch Eating Place,881,36,0.03925845147219193
+Philadelphia,Front Street Cafe,832,34,0.03926096997690531
+Philadelphia,Zahav,3392,402,0.10595677385345283
+Philadelphia,Luke’s Lobster Rittenhouse,1220,74,0.0571870170015456
+Philadelphia,Dim Sum House,508,26,0.04868913857677903
+Philadelphia,Rosy’s Taco Bar,370,12,0.031413612565445025
+Philadelphia,Royal Sushi & Izakaya,353,11,0.03021978021978022
+Philadelphia,DuBu,644,55,0.07868383404864092
+Philadelphia,Chengdu Famous Food,258,16,0.058394160583941604
+Philadelphia,SouthHouse,190,13,0.06403940886699508
+Philadelphia,Real Food Eatery,295,21,0.06645569620253164
+Philadelphia,Rhythm and Brunch,125,10,0.07407407407407407
+Philadelphia,Pera Turkish Cuisine,118,7,0.056
+Philadelphia,Nipotina,17,1,0.05555555555555555
+Phoenix,Angels Trumpet Ale House,1297,97,0.06958393113342898
+Phoenix,Lo-Lo’s Chicken & Waffles,2835,360,0.11267605633802817
+Phoenix,Zookz Sandwiches,1198,94,0.07275541795665634
+Phoenix,The Arrogant Butcher,3127,443,0.12408963585434174
+Phoenix,Durant’s,1228,120,0.08902077151335312
+Phoenix,Tacos Chiwas,923,56,0.05720122574055159
+Phoenix,Southern Rail,738,38,0.04896907216494845
+Phoenix,TEXAZ Grill,822,83,0.09171270718232044
+Phoenix,The Porch,926,120,0.1147227533460803
+Phoenix,Babbo Italian Eatery,433,47,0.09791666666666667
+Phoenix,Harvey’s Wineburger,502,50,0.09057971014492754
+Phoenix,Prado,249,14,0.053231939163498096
+Phoenix,Provision,111,0,0.0
+Phoenix,The Sandwich Spot - Phoenix,139,9,0.060810810810810814
+Phoenix,Sidecar Social Club,69,4,0.0547945205479452
+Pittsburgh,Smoke,522,32,0.05776173285198556
+Pittsburgh,Monterey Bay Fish Grotto,692,43,0.058503401360544216
+Pittsburgh,Everyday Noodles,945,60,0.05970149253731343
+Pittsburgh,täkō,1940,198,0.09260991580916744
+Pittsburgh,Condado Tacos,1164,101,0.07984189723320158
+Pittsburgh,Coughlin’s Law Kitchen and Ale House,293,19,0.060897435897435896
+Pittsburgh,Dorothy 6 Blast Furnace Cafe,237,16,0.06324110671936758
+Pittsburgh,Max’s Allegheny Tavern,338,34,0.0913978494623656
+Pittsburgh,The Speckled Egg PGH,391,20,0.04866180048661801
+Pittsburgh,Crepes Parisiennes,223,10,0.04291845493562232
+Pittsburgh,Diners 2+1,175,6,0.03314917127071823
+Pittsburgh,Pasha Cafe & Lounge,207,17,0.07589285714285714
+Pittsburgh,Sushi Kim 2,43,7,0.14
+Pittsburgh,Spirits & Tales,117,5,0.040983606557377046
+Pittsburgh,Eighteen,9,4,0.3076923076923077
+Pleasanton,Alberto’s Cantina,706,50,0.06613756613756613
+Pleasanton,Jim’s Country Style Restaurant,653,67,0.09305555555555556
+Pleasanton,Coco Cabana,992,90,0.08317929759704251
+Pleasanton,Burma Burma,1490,84,0.053367217280813214
+Pleasanton,Seoul Jung Korean BBQ,1562,1274,0.44922425952045136
+Pleasanton,Chili’s,404,32,0.07339449541284404
+Pleasanton,Local Poke,438,17,0.03736263736263736
+Pleasanton,New York Pizza,470,61,0.11487758945386065
+Pleasanton,Experience Burma Restaurant and Bar,474,17,0.034623217922606926
+Pleasanton,King Wah,290,12,0.039735099337748346
+Pleasanton,Nick The Greek,255,12,0.0449438202247191
+Pleasanton,Elevation LVK,241,16,0.0622568093385214
+Pleasanton,Dino’s Pizza Kitchen,108,15,0.12195121951219512
+Pleasanton,Annachi Kadai,107,3,0.02727272727272727
+Pleasanton,Teriyaki City Grill - Pleasanton,79,2,0.024691358024691357
+Portland,Elephants Delicatessen,848,76,0.08225108225108226
+Portland,Serratto,722,59,0.07554417413572344
+Portland,Nuestra Cocina,623,86,0.12129760225669958
+Portland,Screen Door Eastside,8448,1534,0.15367661791224205
+Portland,Urban Farmer,1122,81,0.06733167082294264
+Portland,Meat Cheese Bread,429,43,0.09110169491525423
+Portland,Swine Moonshine & Whiskey Bar,374,17,0.043478260869565216
+Portland,Master Kong,455,23,0.04811715481171548
+Portland,Murata Restaurant,413,35,0.078125
+Portland,Portland Kettle,191,10,0.04975124378109453
+Portland,Hat Yai,250,11,0.0421455938697318
+Portland,Beastro By Marshawn Lynch,165,5,0.029411764705882353
+Portland,Wu-Rons,61,1,0.016129032258064516
+Portland,Fish-San,60,4,0.0625
+Portland,Pasture PDX,39,1,0.025
+Saint Paul,Sea Salt Eatery,815,45,0.05232558139534884
+Saint Paul,Hi-Lo Diner,609,43,0.06595092024539877
+Saint Paul,Chimborazo,809,82,0.0920314253647587
+Saint Paul,Moscow On The Hill,573,60,0.0947867298578199
+Saint Paul,J. Selby’s,416,24,0.05454545454545454
+Saint Paul,Yarusso Bros Italian Restaurant,143,26,0.15384615384615385
+Saint Paul,Little Szechuan Hot Pot,270,19,0.0657439446366782
+Saint Paul,New Fresh Wok,160,28,0.14893617021276595
+Saint Paul,Dark Horse Bar & Eatery,252,12,0.045454545454545456
+Saint Paul,Taste of Scandinavia Bakery & Cafe,81,10,0.10989010989010989
+Saint Paul,Oliver’s - Shoreview,123,10,0.07518796992481203
+Saint Paul,The Bungalow Club,98,3,0.0297029702970297
+Saint Paul,Coffee Cup on Randolph,58,1,0.01694915254237288
+Saint Paul,Dock & Paddle,20,0,0.0
+Saint Paul,Big Biscuit Bar,4,0,0.0
+Salem,Super Pho,249,27,0.09782608695652174
+Salem,China Gourmet,236,26,0.09923664122137404
+Salem,Yan Yan Chinese Cuisine,229,22,0.08764940239043825
+Salem,Santiam Brewing,287,21,0.06818181818181818
+Salem,In-N-Out Burger,443,29,0.0614406779661017
+Salem,John’s Chinese Restaurant,141,22,0.13496932515337423
+Salem,Original Roadhouse Grill,190,33,0.14798206278026907
+Salem,Mina’s Cafe,137,19,0.12179487179487179
+Salem,Masonry Grill,149,14,0.08588957055214724
+Salem,Nancy Jo’s Burgers & Fries,64,8,0.1111111111111111
+Salem,Big Wig Donuts,84,3,0.034482758620689655
+Salem,Tony’s Taco Shop,116,11,0.08661417322834646
+Salem,TokyRoll Sushi & Poké - Salem,36,5,0.12195121951219512
+Salem,Oriental Sushi & Chinese,49,10,0.1694915254237288
+Salem,G3 Pizza & Burgers,11,2,0.15384615384615385
+Salt Lake City,Stoneground Kitchen,617,56,0.08320950965824665
+Salt Lake City,Squatters Pub Brewery,1336,130,0.08867667121418826
+Salt Lake City,Blue Iguana,544,50,0.08417508417508418
+Salt Lake City,HSL,715,62,0.07979407979407979
+Salt Lake City,Penny Ann’s Cafe,1424,165,0.10383889238514789
+Salt Lake City,Monkeywrench,281,9,0.03103448275862069
+Salt Lake City,Beaumont Bakery & Cafe,402,29,0.06728538283062645
+Salt Lake City,Christopher’s Prime Tavern & Grill,340,59,0.14786967418546365
+Salt Lake City,Ivy & Varley,322,9,0.027190332326283987
+Salt Lake City,Hook & Reel Cajun Seafood & Bar,135,15,0.1
+Salt Lake City,Los Tapatios Taco Grill,131,11,0.07746478873239436
+Salt Lake City,Sonoma Grill & Wine Bar,111,6,0.05128205128205128
+Salt Lake City,Copper Canyon Grill House And Tavern,89,7,0.07291666666666667
+Salt Lake City,Tacos Hidalgo,59,12,0.16901408450704225
+Salt Lake City,Street Tacos Don Joaquin -Salt Lake,22,0,0.0
+San Jose,Pacific Catch,1937,146,0.0700912145943351
+San Jose,The Farmers Union,1301,62,0.04548789435069699
+San Jose,Bun Bo Hue An Nam,2129,184,0.07955036748811067
+San Jose,The Breakfast Club,3813,286,0.06977311539399854
+San Jose,ToBang,2506,193,0.07150796591330122
+San Jose,Maya’s Cafe,707,64,0.08300907911802853
+San Jose,Brew City Grill,622,35,0.0532724505327245
+San Jose,Chicken Meets Rice,1173,45,0.03694581280788178
+San Jose,Water Tower Kitchen,830,33,0.038238702201622246
+San Jose,Umi Hand Roll Bar,284,5,0.01730103806228374
+San Jose,Slater’s 50/50 - San Jose,257,12,0.04460966542750929
+San Jose,Uncle John’s Pancake House - The Alameda,516,29,0.05321100917431193
+San Jose,Thaibodia Bistro,78,5,0.060240963855421686
+San Jose,Milk Belly Bakery,98,1,0.010101010101010102
+San Jose,Nagoya Sushi,65,6,0.08450704225352113
+San Leandro,Scolari’s,1285,95,0.06884057971014493
+San Leandro,Frodo Joe’s Coffee & Tea,839,64,0.07087486157253599
+San Leandro,Zocalo Coffeehouse,1101,88,0.07401177460050462
+San Leandro,Fifth Wheel,791,55,0.06501182033096926
+San Leandro,Vientian Cafe,1167,84,0.0671462829736211
+San Leandro,Little Namking,333,23,0.06460674157303371
+San Leandro,Pho An Hoa,595,29,0.046474358974358976
+San Leandro,Minami Sushi,636,62,0.08882521489971347
+San Leandro,Ramen101,601,23,0.03685897435897436
+San Leandro,Fire Wings,252,17,0.06319702602230483
+San Leandro,Vons Chicken,201,6,0.028985507246376812
+San Leandro,Chinese Bakery and Deli,240,10,0.04
+San Leandro,Great Wall Restaurant,176,15,0.07853403141361257
+San Leandro,Mochinut San Leandro,92,2,0.02127659574468085
+San Leandro,Lao and Sushi Bistro,41,2,0.046511627906976744
+San Mateo,"Kincaid’s Fish, Chop & Steakhouse",1335,92,0.0644709180098108
+San Mateo,Himawari,2333,119,0.04853181076672104
+San Mateo,Cuisinett Bistro & Market,938,37,0.03794871794871795
+San Mateo,Mokutanya,2296,138,0.056696795398520954
+San Mateo,Gyu-Kaku Japanese BBQ,1120,91,0.07514450867052024
+San Mateo,Kaz Teriyaki Grill,612,34,0.05263157894736842
+San Mateo,Vespucci Ristorante Italiano,635,70,0.09929078014184398
+San Mateo,Kemuri Japanese Barú,691,27,0.037604456824512536
+San Mateo,Mykonos Meze,602,37,0.057902973395931145
+San Mateo,MidiCi Neapolitan Pizza - San Mateo,398,43,0.09750566893424037
+San Mateo,Koja Kitchen,430,20,0.044444444444444446
+San Mateo,Centro Pizza,284,13,0.04377104377104377
+San Mateo,Silver Lake Seafood Restaurant,263,14,0.05054151624548736
+San Mateo,SAJJ Mediterranean,216,8,0.03571428571428571
+San Mateo,Hing Lung - Temp. CLOSED,58,2,0.03333333333333333
+Santa Clara,Paesano Ristorante Italiano,1293,104,0.0744452397995705
+Santa Clara,Pizza Antica,3298,233,0.0659869725290286
+Santa Clara,Ozumo Santana Row,1435,103,0.06697009102730819
+Santa Clara,ToBang,2506,193,0.07150796591330122
+Santa Clara,Bill’s Cafe,2342,177,0.0702659785629218
+Santa Clara,Su’s Mongolian BBQ,695,52,0.06961178045515395
+Santa Clara,Demiya,702,37,0.05006765899864682
+Santa Clara,China Stix Restaurant,791,76,0.08765859284890427
+Santa Clara,Sweet Maple,664,19,0.027818448023426062
+Santa Clara,Mastro’s Steakhouse,481,33,0.06420233463035019
+Santa Clara,Men-Bei Ramen,515,14,0.026465028355387523
+Santa Clara,Indian Tadka,351,16,0.043596730245231606
+Santa Clara,Top Dumpling,133,5,0.036231884057971016
+Santa Clara,BN Chicken,248,12,0.046153846153846156
+Santa Clara,Olioli Hawaiian BBQ,76,3,0.0379746835443038
+Schaumburg,Portillo’s & Barnelli’s Schaumburg,646,82,0.11263736263736264
+Schaumburg,Kura Revolving Sushi Bar,686,193,0.21956769055745165
+Schaumburg,Bahama Breeze,717,74,0.09355246523388117
+Schaumburg,Brazil Express Churrasco Grill,569,67,0.10534591194968554
+Schaumburg,Lou Malnati’s Pizzeria,799,114,0.1248630887185104
+Schaumburg,Lalo’s Mexican Restaurant - Schaumburg,249,30,0.10752688172043011
+Schaumburg,Don’s Dock Seafood,379,38,0.09112709832134293
+Schaumburg,Miller’s Ale House,277,49,0.15030674846625766
+Schaumburg,Farmhouse On North,250,28,0.10071942446043165
+Schaumburg,Neoteca,161,18,0.1005586592178771
+Schaumburg,The Capital Grille,151,10,0.062111801242236024
+Schaumburg,Franco’s Cucina Italian Bakery & Deli,180,18,0.09090909090909091
+Schaumburg,Tropical Time,78,4,0.04878048780487805
+Schaumburg,Rebel Kitchen + Bar,72,11,0.13253012048192772
+Schaumburg,India Foodie Lounge,8,2,0.2
+Somerville,The Friendly Toast,2868,182,0.05967213114754098
+Somerville,Café Luna,1715,83,0.046162402669632924
+Somerville,Fuji at Assembly,651,41,0.059248554913294796
+Somerville,Posto,1033,78,0.0702070207020702
+Somerville,The Smoke Shop BBQ - Kendall Square,690,28,0.03899721448467967
+Somerville,Desfina Restaurant,279,14,0.04778156996587031
+Somerville,Out of the Blue,276,33,0.10679611650485436
+Somerville,Ariana Restaurant,485,44,0.0831758034026465
+Somerville,The Abbey,303,17,0.053125
+Somerville,Pepi’s Pizzeria,128,10,0.07246376811594203
+Somerville,Black Sheep Bagel Cafe,246,8,0.031496062992125984
+Somerville,Flour Bakery + Cafe,259,8,0.0299625468164794
+Somerville,Parla XXI,58,3,0.04918032786885246
+Somerville,Comfort Kitchen,73,2,0.02666666666666667
+Somerville,Deep Cuts,19,2,0.09523809523809523
+Sunnyvale,Ramen Nagi,2290,119,0.0493980904939809
+Sunnyvale,Eureka! - Mountain View,1354,65,0.04580690627202255
+Sunnyvale,Chaats And Currys,1135,135,0.1062992125984252
+Sunnyvale,Puesto Santa Clara,1814,189,0.09435846230654019
+Sunnyvale,Inchin’s Bamboo Garden,1218,62,0.0484375
+Sunnyvale,Urfa Bistro,447,34,0.07068607068607069
+Sunnyvale,Kumako Ramen Den,566,37,0.06135986733001658
+Sunnyvale,Fleming’s Prime Steakhouse & Wine Bar,989,49,0.04720616570327553
+Sunnyvale,Hanabusa Café,642,19,0.028744326777609682
+Sunnyvale,Ajito,351,18,0.04878048780487805
+Sunnyvale,Danawa,287,19,0.06209150326797386
+Sunnyvale,Indian Tadka,351,16,0.043596730245231606
+Sunnyvale,Sizzling Lunch,117,5,0.040983606557377046
+Sunnyvale,Egglicious India,123,9,0.06818181818181818
+Sunnyvale,SV Cocina and Pupuseria,37,4,0.0975609756097561
+Torrance,Tony’s On the Pier,1312,85,0.06084466714387974
+Torrance,BJ’s Restaurant & Brewhouse,1549,112,0.06742925948223961
+Torrance,The San Franciscan,1215,72,0.055944055944055944
+Torrance,Jus’ Poke,2181,147,0.06314432989690721
+Torrance,the Hook & Plow Hermosa,704,52,0.06878306878306878
+Torrance,mar’sel,732,56,0.07106598984771574
+Torrance,Darrow’s New Orleans Grill,1182,81,0.06413301662707839
+Torrance,Sea Level Restaurant & Lounge,844,51,0.05698324022346369
+Torrance,Mama Ds Hermosa Beach,402,52,0.1145374449339207
+Torrance,La Bella Napoli,413,22,0.05057471264367816
+Torrance,Panelas Brazil Cuisine,394,23,0.05515587529976019
+Torrance,Kurisaki,218,7,0.03111111111111111
+Torrance,The Rex Seaside Steakhouse,215,13,0.05701754385964912
+Torrance,Baba’s Deli Subs,90,3,0.03225806451612903
+Tucson,Blue Willow Restaurant & Gift Shop,774,42,0.051470588235294115
+Tucson,Smokey Mo,617,34,0.05222734254992319
+Tucson,Agustin Kitchen,611,37,0.05709876543209876
+Tucson,5 Points Market & Restaurant,666,54,0.075
+Tucson,Kingfisher Bar & Grill,601,35,0.055031446540880505
+Tucson,47 Scott - Temp. CLOSED,460,40,0.08
+Tucson,Vero Amore - Swan,534,53,0.09028960817717206
+Tucson,D’s Island Grill JA,281,17,0.05704697986577181
+Tucson,Feast,532,54,0.09215017064846416
+Tucson,BBQ Rush Restaurant,154,7,0.043478260869565216
+Tucson,Zio Peppe,200,3,0.014778325123152709
+Tucson,Caravan Grill,141,12,0.0784313725490196
+Tucson,Raising Cane’s Chicken Fingers,54,6,0.1
+Tucson,Two Hands Corn Dogs,65,1,0.015151515151515152
+Tucson,La Yaquesita Mexican Cuisine,40,3,0.06976744186046512
+Walnut Creek,Esin Restaurant & Bar,1259,143,0.10199714693295292
+Walnut Creek,Jacks Restaurant & Bar,2106,190,0.08275261324041812
+Walnut Creek,Ohgane,1592,220,0.12141280353200883
+Walnut Creek,Rooftop,1677,120,0.0667779632721202
+Walnut Creek,San Francisco Creamery,1320,101,0.07107670654468684
+Walnut Creek,Wild Ginger,645,17,0.0256797583081571
+Walnut Creek,Sargam Indian Cuisine,683,79,0.1036745406824147
+Walnut Creek,Kinder’s Meats Deli BBQ,610,68,0.10029498525073746
+Walnut Creek,Galpao Gaucho Brazilian Steakhouse,944,64,0.06349206349206349
+Walnut Creek,Stix Eatery,459,17,0.03571428571428571
+Walnut Creek,Peony Garden,398,28,0.06572769953051644
+Walnut Creek,Oke Poke,424,25,0.0556792873051225
+Walnut Creek,Bardo Lounge & Supper Club,222,10,0.04310344827586207
+Walnut Creek,Mama’s Lumpia,155,15,0.08823529411764706
+Walnut Creek,Lou’s Chicken Shop,66,1,0.014925373134328358
+"Washington, DC",Agora DC,1557,112,0.06710605152786099
+"Washington, DC",Toki Underground,2514,140,0.05275056518462698
+"Washington, DC",Keren Restaurant,1253,88,0.06562266964951528
+"Washington, DC",il Canale,4498,806,0.15196078431372548
+"Washington, DC",Filomena Ristorante,3319,240,0.0674346726608598
+"Washington, DC",Lavagna,755,56,0.0690505548705302
+"Washington, DC",Lupo Verde,916,106,0.10371819960861056
+"Washington, DC",Pearl Dive Oyster Palace,1029,58,0.05335786568537258
+"Washington, DC",Rumi’s Kitchen,570,25,0.04201680672268908
+"Washington, DC",Mercy Me,356,20,0.05319148936170213
+"Washington, DC",Little Coco’s,302,15,0.0473186119873817
+"Washington, DC",Off The Record,368,14,0.03664921465968586
+"Washington, DC",Duck Duck Goose,139,7,0.04794520547945205
+"Washington, DC",Prost,134,3,0.021897810218978103
+"Washington, DC",Busboys and Poets - Bookstore,8,4,0.3333333333333333
